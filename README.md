@@ -135,6 +135,62 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap 
 
+1. Daten aufarbeiten in PDF-Format
+2. Mirroring/Ablage der Daten zum direkten Abruf über Server
+3. Aufteilen der Daten in "Rezepte / Texte / Bilder" 
+4. Aufbau API für Rezepte / Texte / Infos
+
+# ToDo
+
+# Aufgabe
+
+Die Daten aus der Quelle müssen teilweise ergänzt werden und erweitert. Als Beispiel wird z.B. bei Backrezepten weder von Temperaturen als auch von der Backdauer geschrieben.
+Dieses oder ähnliche Probleme sind typisch.
+Damit die Daten zu "modernen und neuen Rezepten werden" würde ich vorschlagen das ganze in zwei Schritten zu managen.
+Tipps / Weitere Informationen sollten von Nutzern/Besuchern angegeben werden können, ähnlich "Backtemperatur 180*C und 30 Minuten". 
+
+1. Einmal die original-Daten wiedergeben als "Read-Only"-Schnittstelle
+
+2. Die Schnittstelle nutzen um ein "Daten-Feeder" zu bauen/ Tool welches die Rezepte importiert in das "neue Rezept-Format / die Datenbank".
+Im ersten Schritt wird so händisch Rezept für Rezept eingepflegt, anschließend wenn die Rezepte bestehen kann die Maske als "Editor genutzt werden".
+Als Rezept-Formate gibt es z.B. das Open Recipe Format, welches yaml-Dateien anlegt.
+3. Tipps / Kommentare können angegeben werden zu den Rezepten ähnlich Reddit-Threads mit Voting.
+   Am meisten gevotete Tipps werden zu den Rezepten angezeigt und ggf. als "Backtemperatur" angegeben.
+   Gleiches kann für Zutaten verwendet werden. "9/10 Nutzern ersetzten die Gurke durch eine Tomate".
+
+4. API-Nutzung in Kochbuch-Website/Blog/Porta
+
+# Aufbau
+
+1. Aufbereitung OCR-Rescan / Fix der Stammdaten
+2. Erst einmal eine Original-API, welche simpel die Texte und Bilder liefert Seite pro Seite im Buch.
+   Grafik und Text aus OCR pro Buchseite
+   Aufteilung  der Rezepte, Inhaltsverzeichnis der Bücher zur Hilfe.
+3. Datenbank für Rezept Alage in neuem Format
+    Open Recipe Format https://schema.org/Recipe
+    https://schema.org/Recipe
+    YAML-Files
+4. Rezept-Editor/Korrektur-Tool:
+    4.1 Rezepte korrigieren mit Webeditor:
+    4.2 Anzeige Original-Rezept und Text aus OCR-Scan
+    4.3 Eingabe / Zuweisung von Text zu "Rezepteigenschaften"/Daten zuweisung.
+        Beispiel "1/4 Pfund Zucker". Wird markiert & übertragen zu Rezeptzutat in neuer Datenbank mit "Inforamtionen verknüpft".
+5. API-Aufbau um Rezeptdaten zurückzugeben.
+6. Blog/Webverzeichnis der Rezepte
+7. Aufbereitung
+    Ernährungsampel
+    Nutrition facts
+
+# Links
+
+GitHub Link:
+https://github.com/georgduees/oldEats
+
+# Tools
+
+ Datenbank PostGres/MariaDB
+
+
 See the [open issues](https://github.com/georgduees/oldEats/issues) for a list of proposed features (and known issues).
 
 
