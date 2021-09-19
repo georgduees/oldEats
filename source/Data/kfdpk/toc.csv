@@ -1,0 +1,407 @@
+﻿CategoryNo;Category;Number;Title;Page;Image;Offset
+1;Suppen;1;Johannisbeersuppe;19;23;4
+1;Suppen;2;Kirschen-Suppe;19;23;4
+1;Suppen;3;Zwetschen-Suppe;20;24;4
+1;Suppen;4;Pflaumenmussuppe;20;24;4
+1;Suppen;5;Aepfel-Suppe;21;25;4
+1;Suppen;6;Apfelwein-Suppe;21;25;4
+1;Suppen;7;Wein-Suppe;22;26;4
+1;Suppen;8;Bier-Suppe;22;26;4
+1;Suppen;9;Wasser-Suppe;22;26;4
+1;Suppen;10;Milch-Suppe;23;27;4
+1;Suppen;11;Rahm-Suppe;23;27;4
+1;Suppen;12;Chocolade-Suppe;24;28;4
+1;Suppen;13;Weißbrot-Suppe;24;28;4
+1;Suppen;14;Schwarzbrotsuppe;25;29;4
+1;Suppen;15;Reis-Suppe;25;29;4
+1;Suppen;16;Hafergrütz-Suppe;26;30;4
+1;Suppen;17;Kartoffelmehlsuppe;26;30;4
+1;Suppen;18;Suppenmehl-Suppen;26;30;4
+1;Suppen;19;Kartoffel-Suppe;28;32;4
+1;Suppen;20;Gemüse-Suppe (Julienne à la Jardinière);29;33;4
+1;Suppen;21;Sauerampfersuppe;31;35;4
+1;Suppen;22;Suppe von grünen Erbsen;31;35;4
+1;Suppen;23;Suppe von Spargelwasser;32;36;4
+1;Suppen;24;Fleischextrakt-Suppe;32;36;4
+1;Suppen;25;Spatzen-Suppe;34;38;4
+2;Kaltschalen;1;Wein-Kaltschale;36;40;4
+2;Kaltschalen;2;Apfelwein-Kaltschale;36;40;4
+2;Kaltschalen;3;Bier-Kaltschale;37;41;4
+2;Kaltschalen;4;Wasser-Kaltschale;37;41;4
+2;Kaltschalen;5;Heidelbeer-Kaltschale;37;41;4
+2;Kaltschalen;6;Erdbeer-Kaltschale;38;42;4
+2;Kaltschalen;7;Erdbeer-Kaltschale mit Wein;38;42;4
+2;Kaltschalen;8;Heidelbeer-Kaltschale mit Wein;38;42;4
+2;Kaltschalen;9;Himbeer- Kaltschale mit Wein;38;42;4
+2;Kaltschalen;10;Brombeer-Kaltschalt mit Wein;39;43;4
+2;Kaltschalen;11;Johannisbeer-Kaltschale;39;43;4
+2;Kaltschalen;12;Himbeer-Kaltschale;39;43;4
+2;Kaltschalen;13;Milch-Kaltschale;39;43;4
+2;Kaltschalen;14;Rahm-Kaltschale;39;43;4
+2;Kaltschalen;15;Saure Milch;40;44;4
+2;Kaltschalen;16;Pfirsich-Kaltschale;40;44;4
+2;Kaltschalen;17;Aprikosen-Kaltschale;40;44;4
+2;Kaltschalen;18;Apfelsinen-Kaltschale;41;45;4
+3;Vorspeisen;1;Eier in Remolade;43;47;4
+3;Vorspeisen;2;Caviar;44;48;4
+3;Vorspeisen;3;Sardellen;44;48;4
+3;Vorspeisen;4;Sardellen-Brötchen;45;49;4
+3;Vorspeisen;5;Kräuter-Brötchen;45;49;4
+3;Vorspeisen;6;Englische Butterbrötchen;45;49;4
+3;Vorspeisen;7;Sandwichs;46;50;4
+3;Vorspeisen;8;Käseschnittchen;46;50;4
+3;Vorspeisen;9;Blätterteigpastetchen;47;51;4
+3;Vorspeisen;10;Ramequins;48;52;4
+3;Vorspeisen;11;Falsche Austern;48;52;4
+3;Vorspeisen;12;Ragoutmuscheln (Coquilles);49;53;4
+3;Vorspeisen;13;Schnecken;49;53;4
+3;Vorspeisen;14;Illustrirte Gürkchen;50;54;4
+3;Vorspeisen;15;Radieschen;51;55;4
+4;Gemüse;1;Blumenkohl;54;58;4
+4;Gemüse;2;Rosenkohl mit Kastanien;55;59;4
+4;Gemüse;3;Rothkohl;56;60;4
+4;Gemüse;4;Gefüllter Kohl;56;60;4
+4;Gemüse;5;Sauerkraut;57;61;4
+4;Gemüse;6;Teltower Rübchen;59;63;4
+4;Gemüse;7;Körbelrübchen;59;63;4
+4;Gemüse;8;Weiße Rüben;60;64;4
+4;Gemüse;9;Möhrchen;60;64;4
+4;Gemüse;10;Schwarzwurzeln;61;65;4
+4;Gemüse;11;Kohlrabi;61;65;4
+4;Gemüse;12;Spinat;62;66;4
+4;Gemüse;13;Hopfen als Spargel;62;66;4
+4;Gemüse;14;Grüne Erbsen;63;67;4
+4;Gemüse;15;Gelbe (trock.) Erbsen;63;67;4
+4;Gemüse;16;Linsen;64;68;4
+4;Gemüse;17;Weiße Bohnen;64;68;4
+4;Gemüse;18;Schneidbohnen;65;69;4
+4;Gemüse;19;Wachsböhnchen;65;69;4
+4;Gemüse;20;Dicke Bohnen;66;70;4
+5;Kartoffel-Speisen;1;Abgekochte Kartoffeln;67;71;4
+5;Kartoffel-Speisen;2;Gebratene Kartoffeln;68;72;4
+5;Kartoffel-Speisen;3;Gedämpfte Kartoffeln;68;72;4
+5;Kartoffel-Speisen;4;Gefüllte Kartoffeln;68;72;4
+5;Kartoffel-Speisen;5;Berchtesgadner Kartoffeln;69;73;4
+5;Kartoffel-Speisen;6;Englische Kartoffeln;69;73;4
+5;Kartoffel-Speisen;7;Französische Kartoffeln (à la Maitre dhôtel.);70;74;4
+5;Kartoffel-Speisen;8;Kartoffeln mit Aepfeln (Himmel und Erde);70;74;4
+5;Kartoffel-Speisen;9;Kartoffel-Sturm;70;74;4
+5;Kartoffel-Speisen;10;Kartoffel-Auflauf;71;75;4
+5;Kartoffel-Speisen;11;Kartoffel-Kuchen;71;75;4
+5;Kartoffel-Speisen;12;Reibkuchen;72;76;4
+6;Fleisch-Speisen;1;Roastbeef;73;77;4
+6;Fleisch-Speisen;2;Filet mit Gemüse (àla Jardinière);74;78;4
+6;Fleisch-Speisen;3;Hammelschlegel;74;78;4
+6;Fleisch-Speisen;4;Rehschlegel;75;79;4
+6;Fleisch-Speisen;5;Wildschweinschlegel;75;79;4
+6;Fleisch-Speisen;6;Fasan;76;80;4
+6;Fleisch-Speisen;7;Gebratene Schnepfe mit Schnittchen;76;80;4
+6;Fleisch-Speisen;8;Gebratene Spatzen;77;81;4
+6;Fleisch-Speisen;9;Spatzen als Feldhühner;78;82;4
+6;Fleisch-Speisen;10;Spatzen als Krammetsvögel;79;83;4
+6;Fleisch-Speisen;11;Spatzen-Klößchen;79;83;4
+6;Fleisch-Speisen;12;Spatzen-Salmy;80;84;4
+6;Fleisch-Speisen;13;Mayonnaise v. Spatz;80;84;4
+6;Fleisch-Speisen;14;Braunes Ragont;80;84;4
+6;Fleisch-Speisen;15;Sülze;81;85;4
+6;Fleisch-Speisen;16;Beefsteaks;81;85;4
+6;Fleisch-Speisen;17;Coteletts;82;86;4
+6;Fleisch-Speisen;18;Kalbsschnitzel;83;87;4
+6;Fleisch-Speisen;19;Röllchen;83;87;4
+6;Fleisch-Speisen;20;Saucischen;83;87;4
+6;Fleisch-Speisen;21;Leberwürstchen;84;88;4
+6;Fleisch-Speisen;22;Knackwürstchen;84;88;4
+6;Fleisch-Speisen;23;Croquets;84;88;4
+6;Fleisch-Speisen;24;Salpicon;86;90;4
+6;Fleisch-Speisen;25;Schinken, Pökelfleisch,Rauchfleisch, geräuch. Gansbrustgeräucherte Wurst;86;90;4
+7;Fisch-Speisen;1;Stockfisch;87;91;4
+7;Fisch-Speisen;2;Abgekochter Hecht;87;91;4
+7;Fisch-Speisen;3;Hecht mit Capern;88;92;4
+7;Fisch-Speisen;4;Abgekochter Lachs;88;92;4
+7;Fisch-Speisen;5;Abgekochte Forelle;89;93;4
+7;Fisch-Speisen;6;Aal mit Salbei;89;93;4
+7;Fisch-Speisen;7;Gebackene Fische;90;94;4
+7;Fisch-Speisen;8;Gebackene Fische auf holländische Art;90;94;4
+7;Fisch-Speisen;9;Abgekochte Fische auf holländische Art;91;95;4
+7;Fisch-Speisen;10;Stinte;92;96;4
+7;Fisch-Speisen;11;Garneelen;92;96;4
+7;Fisch-Speisen;12;Sardellen;93;97;4
+7;Fisch-Speisen;13;Marinirte Heringe;93;97;4
+7;Fisch-Speisen;14;Geräucherter Lachs;94;98;4
+7;Fisch-Speisen;15;Fisch-Mayonnaise;94;98;4
+8;Eier-Speisen, MehlSpeisen;1;Gekochte Eier;97;101;4
+8;Eier-Speisen, MehlSpeisen;2;Gebackene Eier (Ochenaugen);98;102;4
+8;Eier-Speisen, MehlSpeisen;3;Gerührte Eier;98;102;4
+8;Eier-Speisen, MehlSpeisen;4;Verlorene Eier;99;103;4
+8;Eier-Speisen, MehlSpeisen;5;Rothe Eier;100;104;4
+8;Eier-Speisen, MehlSpeisen;6;Kibitz-Eier;100;104;4
+8;Eier-Speisen, MehlSpeisen;7;Oster-Eier;100;104;4
+8;Eier-Speisen, MehlSpeisen;8;Straußen-Ei;101;105;4
+8;Eier-Speisen, MehlSpeisen;9;Omeletten;102;106;4
+8;Eier-Speisen, MehlSpeisen;10;Gefüllte Omeletten;102;106;4
+8;Eier-Speisen, MehlSpeisen;11;Wiener Mehlschmarrn m. Zwetschenröster;102;106;4
+8;Eier-Speisen, MehlSpeisen;12;Auflege-Kuchen;103;107;4
+8;Eier-Speisen, MehlSpeisen;13;Farcirter Pfannkuch;103;107;4
+8;Eier-Speisen, MehlSpeisen;14;Schaum-Kuchen;104;108;4
+8;Eier-Speisen, MehlSpeisen;15;Rahm-Kuchen;104;108;4
+8;Eier-Speisen, MehlSpeisen;16;Reis-Kuchen;105;109;4
+8;Eier-Speisen, MehlSpeisen;17;Mandel-Kuchen;105;109;4
+8;Eier-Speisen, MehlSpeisen;18;Rosinen-Kuchen;106;110;4
+8;Eier-Speisen, MehlSpeisen;19;Johannisbeerkuchen;106;110;4
+8;Eier-Speisen, MehlSpeisen;20;Heidelbeer-Kuchen;106;110;4
+8;Eier-Speisen, MehlSpeisen;21;Weißbrodkuchen mit Aepfeln;107;111;4
+8;Eier-Speisen, MehlSpeisen;22;Schwarzbrod-Kuchen mit Aepfeln;107;111;4
+8;Eier-Speisen, MehlSpeisen;23;Zwieback-Speise;108;112;4
+8;Eier-Speisen, MehlSpeisen;24;Gußbrödchen;108;112;4
+8;Eier-Speisen, MehlSpeisen;25;Weißbrodschnitten;109;113;4
+8;Eier-Speisen, MehlSpeisen;26;Reisbrei;110;114;4
+8;Eier-Speisen, MehlSpeisen;27;Mehl-Mus;110;114;4
+8;Eier-Speisen, MehlSpeisen;28;Gemüse-Nudeln;111;115;4
+8;Eier-Speisen, MehlSpeisen;29;Mehl-Klöße;111;115;4
+8;Eier-Speisen, MehlSpeisen;30;Spätzlein;112;116;4
+9;Kalte süße Speisen;1;Chocolade-Pudding;113;117;4
+9;Kalte süße Speisen;2;Rahm-Pudding;114;118;4
+9;Kalte süße Speisen;3;Eier-Pudding;114;118;4
+9;Kalte süße Speisen;4;Rosen-Pudding;114;118;4
+9;Kalte süße Speisen;5;Johannisbeer- Pudding;115;119;4
+9;Kalte süße Speisen;6;Griesmehl-Pudding mit Chocolade;115;119;4
+9;Kalte süße Speisen;7;Spanischer Reis;116;120;4
+9;Kalte süße Speisen;8;Rothe Grütze (Bödgröd);116;120;4
+9;Kalte süße Speisen;9;Weiße Grütze;117;121;4
+9;Kalte süße Speisen;10;Süßer Rahm;117;121;4
+9;Kalte süße Speisen;11;Rahmschnee;117;121;4
+9;Kalte süße Speisen;12;Rahmschnee mit Himbeeren oder Erdbeeren;118;122;4
+9;Kalte süße Speisen;13;Schneeberg;118;122;4
+9;Kalte süße Speisen;14;Schnee-Eier;118;122;4
+9;Kalte süße Speisen;15;Aepfel mit Guß;119;123;4
+10;Pudding;1;Schwarzbrod - Pudding;121;125;4
+10;Pudding;2;Zwieback-Pudding;122;126;4
+10;Pudding;3;Griesmehl-Pudding;122;126;4
+10;Pudding;4;Mehl-Pudding;123;127;4
+10;Pudding;5;Apfel-Pudding;123;127;4
+10;Pudding;6;Englischer Pudding;124;128;4
+11;Auflauf;1;Maccaroni-Auflauf;127;131;4
+11;Auflauf;2;Rahm-Auflauf;128;132;4
+11;Auflauf;3;Chocolade-Auflauf;128;132;4
+11;Auflauf;4;Mandel-Auflauf;128;132;4
+11;Auflauf;5;Nuß-Auflauf;129;133;4
+11;Auflauf;6;Aprikosen-Auflauf;129;133;4
+11;Auflauf;7;Citronen-Auflauf;129;133;4
+11;Auflauf;8;Obst-Auflauf;130;134;4
+12;Crêmes;1;Mandel-Crême;131;135;4
+12;Crêmes;2;Chocolade-Crême;131;135;4
+12;Crêmes;3;Thee-Crême;132;136;4
+12;Crêmes;4;Vanille-Crême;132;136;4
+12;Crêmes;5;Makkaronen-Crême;132;136;4
+12;Crêmes;6;Griesmehl-Crême;133;137;4
+12;Crêmes;7;Kartoffelmehlcrême;133;137;4
+12;Crêmes;8;Citronen-Crême;133;137;4
+12;Crêmes;9;Apfel-Crême;134;138;4
+12;Crêmes;10;Johannisbeercrême;134;138;4
+12;Crêmes;11;Himbeer-Crême;135;139;4
+12;Crêmes;12;Eier-Crême;135;139;4
+13;Torten und Kuchen;1;Biscuit-Torte;137;141;4
+13;Torten und Kuchen;2;Kartoffel-Torte;138;142;4
+13;Torten und Kuchen;3;Chocolade-Torte;138;142;4
+13;Torten und Kuchen;4;Mandel-Torte;139;143;4
+13;Torten und Kuchen;5;Zwieback-Torte;139;143;4
+13;Torten und Kuchen;6;Pfund-Torte;140;144;4
+13;Torten und Kuchen;7;Linzer-Torte;140;144;4
+13;Torten und Kuchen;8;Anis-Kuchen;141;145;4
+13;Torten und Kuchen;9;Auflege-Kuchen;141;145;4
+13;Torten und Kuchen;10;Amerikanischer Kuchen (Sponge Cake);142;146;4
+13;Torten und Kuchen;11;Rahm-Torte;142;146;4
+13;Torten und Kuchen;12;Reis-Torte;143;147;4
+13;Torten und Kuchen;13;Citronen-Torte;143;147;4
+13;Torten und Kuchen;14;Johannisbeer-Torte;144;148;4
+13;Torten und Kuchen;15;Apfelkuchen;144;148;4
+13;Torten und Kuchen;16;Heidelbeer-Kuchen;145;149;4
+13;Torten und Kuchen;17;Kirschen-Kuchen;145;149;4
+13;Torten und Kuchen;18;Gugelhopf (Rodon,Baba);146;150;4
+14;Backwerk;1;Waffeln;147;151;4
+14;Backwerk;2;Dütchen und Hütchen;148;152;4
+14;Backwerk;3;Lückchen;149;153;4
+14;Backwerk;4;Möndchen;150;154;4
+14;Backwerk;5;Laubhütten-Küchlein;150;154;4
+14;Backwerk;6;Bretzelchen;151;155;4
+14;Backwerk;7;Gekochte Makkarönchen;151;155;4
+14;Backwerk;8;Chocolade-Plätzchen;152;156;4
+14;Backwerk;9;Anis-Plätzchen;152;156;4
+14;Backwerk;10;Baises;152;156;4
+14;Backwerk;11;Kräpfchen;153;157;4
+14;Backwerk;12;Apfel-Küchlein;154;158;4
+15;Pasteten;1;Hammelfleischpastete (Mutton-Pie);155;159;4
+15;Pasteten;2;Kalbfleisch - Pastete (Veal-Pie);156;160;4
+15;Pasteten;3;Rindsfilet - Pastete (Beefsteak-Pie);156;160;4
+15;Pasteten;4;Spatzenpastete (Sparron-Pie);156;160;4
+16;Compots. Obst-Salate;1;Apfel-Compot;157;161;4
+16;Compots. Obst-Salate;2;Apfel-Mus;158;162;4
+16;Compots. Obst-Salate;3;Compot von getrockneten Aepfeln;159;163;4
+16;Compots. Obst-Salate;4;Compot von getrockneten Zwetschen;159;163;4
+16;Compots. Obst-Salate;5;Compot von getrockneten Heidelbeeren;159;163;4
+16;Compots. Obst-Salate;6;Möhren- Compot (rheinische Orangenschnitzel);159;163;4
+16;Compots. Obst-Salate;7;Kirschen-Compot;160;164;4
+16;Compots. Obst-Salate;8;Kirschäpfelchencomp;160;164;4
+16;Compots. Obst-Salate;9;Erdbeer-Compot;161;165;4
+16;Compots. Obst-Salate;10;Himbeer-Compot;161;165;4
+16;Compots. Obst-Salate;11;Johannisbeer-Comp;161;165;4
+16;Compots. Obst-Salate;12;Preißelbeer-Compot;162;166;4
+16;Compots. Obst-Salate;13;Heidelbeer-Compot;162;166;4
+16;Compots. Obst-Salate;14;Brombeer-Compot;163;167;4
+16;Compots. Obst-Salate;15;Salat von Erdbeeren, Himbeeren oder Brombeeren;163;167;4
+16;Compots. Obst-Salate;16;Salat von Johannisbeeren;164;168;4
+16;Compots. Obst-Salate;17;Salat von Aprikosen, Pfirsich oder Ananas-Erdbeeren;164;168;4
+16;Compots. Obst-Salate;18;Salat von Mandarin-Apfelsinen;164;168;4
+16;Compots. Obst-Salate;19;Gemischter Obst-Salat (Macedoine);165;169;4
+16;Compots. Obst-Salate;20;Gemischter Obst-Salat auf andere Art;165;169;4
+17;Salate;1;Kartoffel-Salat;167;171;4
+17;Salate;2;Hering-Salat;167;171;4
+17;Salate;3;Garneelen-Salat;168;172;4
+17;Salate;4;Fleisch- oder Fisch¬Salat;168;172;4
+17;Salate;5;Garten-Salat;168;172;4
+17;Salate;6;Brunnenkreß-Salat;170;174;4
+17;Salate;7;Gurken-Salat;170;174;4
+17;Salate;8;Tomaten-Salat;170;174;4
+17;Salate;9;Radieschen-Salat;171;175;4
+17;Salate;10;Erbsen-Salat;171;175;4
+17;Salate;11;Kraut-Salat;171;175;4
+17;Salate;12;Blumen-Salat;172;176;4
+18;Warme Saucen;1;Weiße Sauce;173;177;4
+18;Warme Saucen;2;Braune Sance;173;177;4
+18;Warme Saucen;3;Beschamel-Sauce;174;178;4
+18;Warme Saucen;4;Heiße Sardellenbutt;174;178;4
+18;Warme Saucen;5;Wein-Sauce (Chaudeau);174;178;4
+18;Warme Saucen;6;Vanille-Sauce;175;179;4
+18;Warme Saucen;7;Chocoladen-Sauce;175;179;4
+18;Warme Saucen;8;Mandel-Sauce;176;180;4
+18;Warme Saucen;9;Kirschen-Sauce;176;180;4
+18;Warme Saucen;10;Johannisbeersance;176;180;4
+19;Kalte Saucen;1;Mayonnaise-Sauce;177;181;4
+19;Kalte Saucen;2;Rothe Mayonnaise¬Sauce (Cumberland-Sance);177;181;4
+19;Kalte Saucen;3;Französische Sauce (Sauce à la Diable);178;182;4
+19;Kalte Saucen;4;Remolade-Sauce;178;182;4
+19;Kalte Saucen;5;Wein-Sance;178;182;4
+19;Kalte Saucen;6;Rahm-Sauce;179;183;4
+19;Kalte Saucen;7;Fruchtsaft-Sauce;179;183;4
+19;Kalte Saucen;8;Marmelade-Sauce;179;183;4
+19;Kalte Saucen;9;Johannisbeersauce;180;184;4
+19;Kalte Saucen;10;Erdbeer- oder Himbeer-Sauce;180;184;4
+20;Getränke;1;Glühwein;181;185;4
+20;Getränke;2;Eierwein (Chaudeau);181;185;4
+20;Getränke;3;Kalter Eierwein;182;186;4
+20;Getränke;4;Eierbier;182;186;4
+20;Getränke;5;Fruchtwasser;182;186;4
+20;Getränke;6;Erdbeer-Bowle;182;186;4
+20;Getränke;7;Mai-Bowle;183;187;4
+20;Getränke;8;Reseda-Bowle;183;187;4
+21;Teige;1;Blätterteig;185;189;4
+21;Teige;2;Mürber Teig;185;189;4
+21;Teige;3;Gebrühter Teig;186;190;4
+21;Teige;4;Backteig;186;190;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;1;Suppen (S. Kaltschale.);187;191;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;2;Weißbrod-Pudding;187;191;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;3;Zwieback-Speise;188;192;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;4;Nuß-Speise;188;192;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;5;Pflaumen-Speise;188;192;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;6;Apfelspeise mit Apfelsine;189;193;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;7;Apfel-Mus;189;193;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;8;Schwarzbrod-Mus;189;193;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;9;Compot;190;194;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;10;Compot von getrockneten Pflaumen;190;194;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;11;Compot von Nußkernen;190;194;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;12;Schneeberg.S.kaltesüße Speis;190;194;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;13;Rahmschnee;190;194;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;14;Süß. Rahm;191;195;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;15;Eier-Crême;191;195;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;16;Obst-Kuchen;191;195;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;17;Aniskuchen;191;195;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;18;Zuckerkuchen;191;195;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;19;Apfelküchlein;192;196;4
+22;Kalte Küche oder Speisen ohne Feuer bereitet;20;Ueberzuckertes Obst;192;196;4
+23;Blumen-Küche;1;Gemüse- Suppe (Julienne);195;199;4
+23;Blumen-Küche;2;Saure Milch;196;200;4
+23;Blumen-Küche;3;mischtes Gemüse. (Macedoine);196;200;4
+23;Blumen-Küche;4;Kohlrabi;196;200;4
+23;Blumen-Küche;5;Spinat mit Eiern;196;200;4
+23;Blumen-Küche;6;Beefsteacks mit Spiegeleiern;197;201;4
+23;Blumen-Küche;7;Hammelschlegel;197;201;4
+23;Blumen-Küche;8;Klöße;197;201;4
+23;Blumen-Küche;9;Reisbrei;198;202;4
+23;Blumen-Küche;10;Reistassen;198;202;4
+23;Blumen-Küche;11;Pudding;198;202;4
+23;Blumen-Küche;12;Schneeball m. Violensauce;198;202;4
+23;Blumen-Küche;13;Compots;199;203;4
+23;Blumen-Küche;14;Salat;199;203;4
+23;Blumen-Küche;15;Kuchen;199;203;4
+23;Blumen-Küche;16;Küchlein;199;203;4
+23;Blumen-Küche;17;Kröpfchen;200;204;4
+23;Blumen-Küche;18;Dessert;200;204;4
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;

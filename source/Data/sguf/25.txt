@@ -1,0 +1,62 @@
+                       Inhalts=Verzeichniß.
+                                                           XXI
+
+Nro.                                                       Seite
+468.   Ratankuchen zu machen                                224
+469.   Rührkuchen                                          2225
+470.   Rührkuchen    mit Eiern                              225
+471.   Rührkuchen in    einer etwas größern Form *          226
+472.   Schmandkuchen                                        226
+                                                   *
+473.   Schneeballen                                        *
+                                                           226
+474    Spanischbrod=Teig zu machen                          10
+                                                           221
+475    Ein mürber Teig           *                 *
+                                                             0
+                                                            22
+476    Ein süßer Teig                                       228
+477.   Traubenkuchen                                       228
+478.   Waffeln zu macher                                    228
+479    Waffeln auf andere Art                              228
+480.   Waffeln aufnoch andereArt                            229
+481    Waffeln mit Hefen                                     29
+182    Wiener Kuchen       *         *                 *   230
+483,   Windbeutel                         *                230
+484.   Zimmtkuchen                        *                231
+485.   Zimmtkuchen an andere Art                            231
+486.   Zwetschenkuchen                                     231
+                                     „.
+487.   Zwiebelkuchen       *                               231
+
+                         Zucker=Backerei.
+
+488    Anis=Brod                                            232
+                                                       *
+489    Anisgebackenes            *                     *    233
+490.   Anis=Zuckerwerk                                     233
+491.   Kleine Backereien
+                                                   *       234
+492    Baseler=Gebackenes                                  234
+493.   Kleine Bisquits                                     235
+494    Bisquit=Kuchen                                      235
+495    Bisquitkuchen auf andere Art                         236
+496    Ein recht guter Bisquitkuchen                       236
+                                                   *
+497.   Bisquitkuchen auf noch andere Art                   237
+498    Bretzelchen                                         237
+499    Butter=Gebackenes                                   10
+                                                           237
+500    Butter=Gebackenes auf andere Art                    238
+501    Butter=Gebackenes auf     noch andere Art           238
+502    Chokolade=Küchlein                                  238
+503    Thokolade=Küchlein al andere Art                    238
+504.   Chokolade=Küchlein mit Mandeln                      239
+505.   Citronen=Gebackenes           *
+                                                           239
+506.   Frankfurter Brenten                     *           239
+507.   Kleine französische Kuchen                  *
+                                                           240
+508.   Ein gutes Gebäck                                    240
+509.   Herrnhuter Küchlein                                 240
+

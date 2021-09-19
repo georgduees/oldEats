@@ -1,0 +1,54 @@
+                       Inhalts=Verzeichniß.                             XXV
+
+Nro.                                                                    Seite
+635.   Brod=Auflauf                                                      293
+636.   Chokolade=Auflaus                                                 293
+637.   Citronat=Auflaus    *                                             294
+638    Gries=Auflau                                                      294
+639    Gries=Auflauf.(Von      gelben Gries)                             294
+640.   Kartoffel=Auflauf                                          *      295
+641    Kirschen=Auflauf                                            *     295
+                                                                         6
+642.   Mandel=Auflau                                                     296
+                                        *        *
+643.   Nudel=Auflauf                                                     296
+644    Reis=Auflau                                                       296
+645.     #       1    au   andere Art                                    296
+646.             „    1     noch andere Art                              297
+647.     M                 eine noch andere Art                          298
+648.     I                 mit Arrac.                                    298
+649    Eine süße Schüssel                                                299
+
+
+                          Von den Crêmen.
+
+650.   Chokolade=Crême*                                                  299
+651.   Citronen=Crême                                                    300
+652.         1             auf andere Art                                300
+653                        # noch andereArt*                             301
+654.   Erdbeeren=Crême                           *                       301
+655.   Himbeeren=Crême           *                                 *     301
+656    Himbeer=Schaum                   *                                302
+657    Johannisbeeren=Crême                                              302
+658.   Kirschen=Crêm                                                     302
+659    Königs=Crême                                                      303
+660    Eine Mandel Crême welch              z1       Rindfleisch auf¬
+         gestellt wird                                  *                304
+661.   Milch=Crême      *                        *                       304
+662.   Punsch=-Crême             *
+                                                                         304
+663.   Reis=Crême                                                        30
+664.   Thee=Crême                *
+                                                                  *      305
+665.   Vanille=Crême                                                     305
+666    Wein=Crême                                                        306
+667.             11   au   andere Art                                    306
+668.             1    1    noch andere Art                         *     306
+669.                  „     eine andere Art                              307
+670.   Gebackene Citronen=Crême                                          307
+
+                               Getränke.
+
+671.   Arrow=Root=Trank für Kranke                                      307
+672.   Warmes Bier                                                      308
+

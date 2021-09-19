@@ -1,0 +1,60 @@
+                       Inhalts=Verzeichniß.                  XIX
+
+Nro                                                          Seite
+382    Mehl=Brei                                              186
+383.      ##n für kleine Kinder                               186
+384.   Süße Milch=Nudeln        *       *                     187
+385.   Nieren=Klöße                     *               *
+                                                              187
+386    Nudeln                                                 187
+387.   Gebackene Nudeln                                       188
+388    Süße Omeletten                                         189
+389    Pfannkuchen                                            189
+390.   Reis mit Aepfel                          *             190
+391        # #     Arrac   *        *       *                 190
+392    Reis=Brei                        *                     191
+393    Reis=Küchlein                                          192
+
+394.   Ein guter Sago=Kuchen                                  192
+395.   Gefüllter Scheiterhaufen                               193
+396.   Schnee=Pfannkuchen                               *     193
+397.   Einfache süße Schnitten mi Sance                       194
+398.   Eine kalte süße Schüssel                     ###. *     195
+399    Schweizer Brei                                          195
+400    Blinde Stockfische                               *     196
+401.   Gekochte Wasser=Spatzen                          *     196
+402    Gefüllte Wecke                               *   *     196
+403.   Weckschnitten mit Weinsauce                            198
+404.   Gebackene Zwetschen                                     198
+
+405    Zwetschen=Pfannkuchen                                   199
+
+
+                               Salat
+
+406.   Bohnen=Salat                                           199
+407.   Gurken=Salat                                            200
+408.   Härings=Salat                                          200
+409.                 mit Kartoffeln             *             201
+410    Kartoffel=Salat                              *         201
+411.   Kraut=Salat                                            201
+412              H   auf andere   Art           *              202
+                                        *
+413.   Lattich=Salat                                          202
+414.   Ochsenmaul=Salat                                       202
+                                                *
+415.   Polnischer Salat                         *             202
+416                  auf andere Art
+                      1                         *
+                                                              203
+417.   Ein guter Salat                                        204
+
+418.   Sellerie=Salat                                         204
+
+
+                Hefen= und Schmalz=Backerei.
+
+419. Ein feiner Butterteig zu einem Obstkuchen.               205
+
+420. Aepfel=Kuchen                                            205
+

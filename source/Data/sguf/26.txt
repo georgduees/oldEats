@@ -1,0 +1,66 @@
+XXII                  Inhalts=Verzeichniß.
+Nro.                                                      Seite
+510.   Hiepen                                              241
+511.   Hiepen auf eine andere Art                          241
+512    Hiepen auf noch andere Art                          241
+513.   Hiepen=Recept auf andere   Art         *
+                                                           242
+514.   Kaffeeküchlein                                      242
+515.    Kartoffel=Bisquit                                  242
+516.    Süße Küchlein                                      243
+517.   Kleine süße Küchlein                                243
+                                                      *
+518.    Weiße Lebkuchen                                   243
+                                                      *
+519.    Mailändische Küchlein                              244
+520.    Makronen                                           244
+521.   Makronen auf andere Art                             245
+522.   Bittere Makronen                                   245
+                                              *       *
+523.   Mandelbogen                                         245
+       Gebackene Mandelr
+524.                                              4        246
+525.    Gebackene Mandeln von Kartoffeln                   246
+526.    Mandel=Gebackenes                                  247
+
+
+
+
+                                                  :
+527    Mandelgebackenes auf andereArt                      247
+528.   Geröstete Mandeln                                   247
+                                  *           *
+529.    Mandel=Kränzchen                                   248
+530.    Mandelschnitten *                                 248
+                                                  —
+531     Pfeffernüsse                          *
+                                                           249
+532     Pfeffernüsse auf andere Art                        249
+                                          *
+533    Pfeffernüsse auf noch andere Art                   250
+                                              *
+534.   Sehr gutes Rahm=Gebackenes                          250
+535.    Gebackene S. S.                                   250
+536.    Schwaben=Hütchen                                   251
+537.   Spar=Anisgebackenes=Recept                         251
+538.   Stangen=Brod                                       O•
+                                                          251
+539.    Stangen=Brod auf andere Art                       252
+540    Süße Streifen                                      252
+                                                  4
+541.   Thee=Bretzelchen                                    253
+542,   Vanille=Luft                                        253
+543.   Vanille=Luft in größerer Quantitä                   253
+544.   Wasser=Hiepen                      *               253
+545.   Weihnachts=Gebackenes                              254
+546    Wiener Kolatschen                                   254
+547.   Wiener Küchlein                                    254
+       9
+548.   Wif                                                255
+549.   Windbeutel                                         255
+550.   Zimmt=Hiepen                                       255
+551.   Zimmt=Mandeln                                      256
+552.   Zimmt=Stern                                        256
+553.   Zimmt=Wäffelchen                                   257
+554.   Zitronen=Auflauf                                   257
+

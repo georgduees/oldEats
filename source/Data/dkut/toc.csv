@@ -1,0 +1,226 @@
+﻿CategoryNo;Category;Number;Title;Page;Image;Offset
+1;Vorbemerkungen;1;Vorbemerkungen;1;17;16
+1;Vorbemerkungen;2;Der Kaffee;3;19;16
+1;Vorbemerkungen;3;Die Kaffee-Bereitung;9;25;16
+1;Vorbemerkungen;4;Die Kaffec-Sorten;20;36;16
+1;Vorbemerkungen;5;Die Kaffec-Surrogate;21;37;16
+1;Vorbemerkungen;6;Der Thee;24;40;16
+1;Vorbemerkungen;7;Die Schokolade;29;45;16
+1;Vorbemerkungen;8;Der Kaffeetisch;34;50;16
+1;Vorbemerkungen;9;Der Theetisch;37;53;16
+2;Kuchen und Brezeln.;1;Rheinische Neujahrs-Brezel;43;59;16
+2;Kuchen und Brezeln.;2;Rollkuchen;51;67;16
+2;Kuchen und Brezeln.;3;Zimtkuchen;59;75;16
+2;Kuchen und Brezeln.;4;Rheinischer Kringel;67;83;16
+2;Kuchen und Brezeln.;5;Potkuchen;75;91;16
+2;Kuchen und Brezeln.;6;Braunschweiger Kuchen;83;99;16
+2;Kuchen und Brezeln.;7;Mürber Kaffeekuchen;91;107;16
+2;Kuchen und Brezeln.;8;Apostelkuchen (Brioche);97;113;16
+2;Kuchen und Brezeln.;9;Sächsischer Kuchen;105;121;16
+2;Kuchen und Brezeln.;10;Altdeutscher Napfkuchen;111;127;16
+2;Kuchen und Brezeln.;11;Schmalzkuchen;119;135;16
+2;Kuchen und Brezeln.;12;Dresdener Stolle;125;141;16
+2;Kuchen und Brezeln.;13;Portugieser Theekuchen;135;151;16
+2;Kuchen und Brezeln.;14;Sächsischer Butterzopf;143;159;16
+2;Kuchen und Brezeln.;15;Speckkuchen;151;167;16
+2;Kuchen und Brezeln.;16;Englischer Puffer;157;173;16
+2;Kuchen und Brezeln.;17;Schlesischer Streußelkuchen;165;181;16
+2;Kuchen und Brezeln.;18;Amerikanischer Kuchen (Sponge-Cake);171;187;16
+2;Kuchen und Brezeln.;19;Gußkuchen;177;193;16
+2;Kuchen und Brezeln.;20;Makronenkuchen;187;203;16
+2;Kuchen und Brezeln.;21;Wiener Kuchen;193;209;16
+2;Kuchen und Brezeln.;22;Weinkuchen;201;217;16
+2;Kuchen und Brezeln.;23;Schwäbischer Gugelhopf;207;223;16
+2;Kuchen und Brezeln.;24;Gelber Weihnachts-Kringel;215;231;16
+3;Torten;25;Schwarzbrot-Torte;46;62;16
+3;Torten;26;Schlangen-Torte;54;70;16
+3;Torten;27;Kartoffel-Torte;63;79;16
+3;Torten;28;Italienische oder Marmor-Torte;71;87;16
+3;Torten;29;Pfund-Torte;79;95;16
+3;Torten;30;Kirschen-Torte;86;102;16
+3;Torten;31;Wiener Torte;94;110;16
+3;Torten;32;Johannisbeer-Torte;101;117;16
+3;Torten;33;Demi-Torte;108;124;16
+3;Torten;34;Biskuit-Torte;114;130;16
+3;Torten;35;Nuß-Torte;121;137;16
+3;Torten;36;Englischer Weihnachtskuchen (Christmas-Cake;129;145;16
+3;Torten;37;Pyramiden-Torte;138;154;16
+3;Torten;38;Apfelsinen-Torte;147;163;16
+3;Torten;39;Sand-Torte;153;169;16
+3;Torten;40;Rahmschnee-Torte;160;176;16
+3;Torten;41;Zwieback-Torte;167;183;16
+3;Torten;42;Französische Früchte-Torte (Gäteau Macédoine);174;190;16
+3;Torten;43;Blumen-Torte (Jardinière de Nice);180;196;16
+3;Torten;44;Aprikosen-Torte;190;206;16
+3;Torten;45;Kränzel-Torte;197;213;16
+3;Torten;46;Dattel-Torte;203;219;16
+3;Torten;47;Blätterteig-Torte;210;226;16
+3;Torten;48;Torte mit Ananas;218;234;16
+4;Backwerk;49;Püffertchen;43;59;16
+4;Backwerk;50;Hefen-Biskuits;44;60;16
+4;Backwerk;51;Schwäbische Hörnlein;51;67;16
+4;Backwerk;52;Kölner Fastnacht-Mutzen;52;68;16
+4;Backwerk;53;Hefen-Waffeln;59;75;16
+4;Backwerk;54;Wiesbadener Kaffee-Küchlein;60;76;16
+4;Backwerk;55;Pandolen;61;77;16
+4;Backwerk;56;Ausgebackene Pilze;62;78;16
+4;Backwerk;57;Dreiback;67;83;16
+4;Backwerk;58;Sächsische Rauten;67;83;16
+4;Backwerk;59;Plinsen;75;91;16
+4;Backwerk;60;Butterlaibchen;76;92;16
+4;Backwerk;61;Hefen-Brezeln;83;99;16
+4;Backwerk;62;Spritz-Küchlein;84;100;16
+4;Backwerk;63;Kapsel-Biskuit;85;101;16
+4;Backwerk;64;Vanille-Hohlhippen;86;102;16
+4;Backwerk;65;Ausgebackene Rosen;91;107;16
+4;Backwerk;66;Kolatschen;92;108;16
+4;Backwerk;67;Reiswaffeln;98;114;16
+4;Backwerk;68;Zucker-Zwieback;99;115;16
+4;Backwerk;69;Kaffee-Brötchen;105;121;16
+4;Backwerk;70;Creme-Cannelons;106;122;16
+4;Backwerk;71;Schnecken;111;127;16
+4;Backwerk;72;Savarins;112;128;16
+4;Backwerk;73;Kastanien-Küchlein;113;129;16
+4;Backwerk;74;Französische Brötchen (Brioches);119;135;16
+4;Backwerk;75;Windbeutel;120;136;16
+4;Backwerk;76;Butter-Ringel;126;142;16
+4;Backwerk;77;Weihnachtsplätzchen;126;142;16
+4;Backwerk;78;Gefüllte Oblaten;127;143;16
+4;Backwerk;79;Dütchen;128;144;16
+4;Backwerk;80;Italienisches Früchte-Konfekt;130;146;16
+4;Backwerk;81;Berliner Brötchen;130;146;16
+4;Backwerk;82;Wiener Kipfel;131;147;16
+4;Backwerk;83;Laubhütten-Küchlein;131;147;16
+4;Backwerk;84;Rahmwaffeln;135;151;16
+4;Backwerk;85;Reichenauer Zwieback;136;152;16
+4;Backwerk;86;Hobelspäne;37;53;16
+4;Backwerk;87;Kölner Brezeln;138;154;16
+4;Backwerk;88;Fastnacht-Küchlein;144;160;16
+4;Backwerk;89;Sandwichs;145;161;16
+4;Backwerk;90;Oblaten;151;167;16
+4;Backwerk;91;Ingwer-Brezeln;152;168;16
+4;Backwerk;92;Schneeballen;157;173;16
+4;Backwerk;93;Mandel-Küchlein;158;174;16
+4;Backwerk;94;Ulmer Brot;165;181;16
+4;Backwerk;95;Englische Schnitten;166;182;16
+4;Backwerk;96;Thee-Kringel;171;187;16
+4;Backwerk;97;Wiener Törtchen;172;188;16
+4;Backwerk;98;Englische Brezeln;177;193;16
+4;Backwerk;99;Aprikosen-Brötchen;178;194;16
+4;Backwerk;100;Rahm-Törtchen;181;197;16
+4;Backwerk;101;Mandel-Törtchen;181;197;16
+4;Backwerk;102;Rosen-Törtchen;182;198;16
+4;Backwerk;103;Englische Käse-Törtchen (Richmond maids of honour).;82;98;16
+4;Backwerk;104;Theebrötchen mit Honig;187;203;16
+4;Backwerk;105;Französische Törtchen (Madeleines de Commercy);187;203;16
+4;Backwerk;106;Milchbrötchen;194;210;16
+4;Backwerk;107;Hohlhippen;194;210;16
+4;Backwerk;108;Mandelschnitten;196;212;16
+4;Backwerk;109;Türkische Küchlein;196;212;16
+4;Backwerk;110;Rahm-Küchlein;201;217;16
+4;Backwerk;111;Anisbrot.;202;218;16
+4;Backwerk;112;Punsch-Törtchen;208;224;16
+4;Backwerk;113;Ausgebackene Apfelküchlein;208;224;16
+4;Backwerk;114;Englische Weihnachts-Pastetchen;215;231;16
+4;Backwerk;115;Sandwaffeln;216;232;16
+4;Backwerk;116;Nürnberger Lebkuchen;218;234;16
+4;Backwerk;117;Schokolade-Brötchen;219;235;16
+4;Backwerk;118;Vanille-Küchlein;220;236;16
+4;Backwerk;119;Bauern-Küchlein;220;236;16
+5;Pudding Süße Speisen;120;Diplomaten-Pudding;44;60;16
+5;Pudding Süße Speisen;121;Reis-Pudding;45;61;16
+5;Pudding Süße Speisen;122;Aprikosen-Pudding;92;108;16
+5;Pudding Süße Speisen;123;Himbeer-Pudding;93;109;16
+5;Pudding Süße Speisen;124;Rahmschnee-Pudding mit Früchten (Tutti-Frutti);100;116;16
+5;Pudding Süße Speisen;125;Stärkmehl-Flummery;152;168;16
+5;Pudding Süße Speisen;126;Griesmehl-Flummery;153;169;16
+5;Pudding Süße Speisen;127;Kaffee-Pudding;158;174;16
+5;Pudding Süße Speisen;128;Schokolade-Pudding;159;175;16
+5;Pudding Süße Speisen;129;Rotwein-Pudding;179;195;16
+5;Pudding Süße Speisen;130;Apfelsinen-Pudding;216;232;16
+5;Pudding Süße Speisen;131;Zitronen-Pudding;217;233;16
+5;Pudding Süße Speisen;132;Apfelsinen-Körbchen;52;68;16
+5;Pudding Süße Speisen;133;Eier im Neste;53;69;16
+5;Pudding Süße Speisen;134;Rahmschnee;76;92;16
+5;Pudding Süße Speisen;135;Heidegrütze mit Rahmschnee;78;94;16
+5;Pudding Süße Speisen;136;Kastanien mit Rahmschnee (Surprise de Marrons;112;128;16
+5;Pudding Süße Speisen;137;Ostindischer Reis;145;161;16
+5;Pudding Süße Speisen;138;Charlotte mit Makronen;172;188;16
+5;Pudding Süße Speisen;139;Rote Grütze;178;194;16
+6;Cremes Gefrorenes Bulzen Kompotte;140;Schokolade-Wein-Creme;60;76;16
+6;Cremes Gefrorenes Bulzen Kompotte;141;Vanille-Creme;61;77;16
+6;Cremes Gefrorenes Bulzen Kompotte;142;Johannisbeer-Creme;85;101;16
+6;Cremes Gefrorenes Bulzen Kompotte;143;Mille-Fruit-Cream;107;123;16
+6;Cremes Gefrorenes Bulzen Kompotte;144;Thee-Creme;120;136;16
+6;Cremes Gefrorenes Bulzen Kompotte;145;Italienische Creme (Zambaglione di Napoli);120;136;16
+6;Cremes Gefrorenes Bulzen Kompotte;146;Gefrorene Creme;136;152;16
+6;Cremes Gefrorenes Bulzen Kompotte;147;Zitronen-Creme;137;153;16
+6;Cremes Gefrorenes Bulzen Kompotte;148;Wein-Creme mit Makronen;173;189;16
+6;Cremes Gefrorenes Bulzen Kompotte;149;Rahm-Creme;188;204;16
+6;Cremes Gefrorenes Bulzen Kompotte;150;Russische Creme;189;205;16
+6;Cremes Gefrorenes Bulzen Kompotte;151;Marmorierte Creme;202;218;16
+6;Cremes Gefrorenes Bulzen Kompotte;152;Apfel-Creme;202;218;16
+6;Cremes Gefrorenes Bulzen Kompotte;153;Gefrorenes im Ofen (Glace au Four);99;115;16
+6;Cremes Gefrorenes Bulzen Kompotte;154;Ananas-Gefrorenes mit Ungarwein;126;142;16
+6;Cremes Gefrorenes Bulzen Kompotte;155;Kirschengeist-Gefrorenes;128;144;16
+6;Cremes Gefrorenes Bulzen Kompotte;156;Rheinwein-Sulz;68;84;16
+6;Cremes Gefrorenes Bulzen Kompotte;157;Mandel-Sulz;69;85;16
+6;Cremes Gefrorenes Bulzen Kompotte;158;Reis-Sulz;146;162;16
+6;Cremes Gefrorenes Bulzen Kompotte;159;Maiwein-Sulz;166;182;16
+6;Cremes Gefrorenes Bulzen Kompotte;160;Vierfrüchte-Sulz;166;182;16
+6;Cremes Gefrorenes Bulzen Kompotte;161;Rheingold;209;225;16
+6;Cremes Gefrorenes Bulzen Kompotte;162;Russische Sulz;209;225;16
+6;Cremes Gefrorenes Bulzen Kompotte;163;Erdbeer-Kompott;85;101;16
+6;Cremes Gefrorenes Bulzen Kompotte;164;Gemischter Kompott (Macédoine);106;122;16
+6;Cremes Gefrorenes Bulzen Kompotte;165;Apfelsinen-Kompott;195;211;16
+6;Cremes Gefrorenes Bulzen Kompotte;166;Aepfel-Marmelade mit Guß (Pommes meringuées);196;212;16
+7;Getränke;167;Glühwein;46;62;16
+7;Getränke;168;Ambrosia;54;70;16
+7;Getränke;169;Brändelpunsch (Krambambuli);62;78;16
+7;Getränke;170;Bischof;70;86;16
+7;Getränke;171;Mai-Bowle;78;94;16
+7;Getränke;172;Kalter Eierwein (Whip);86;102;16
+7;Getränke;173;Spanischer Punsch (Esponjado);93;109;16
+7;Getränke;174;Pfirsich-Bowle;100;116;16
+7;Getränke;175;Ananas-Bowle;107;123;16
+7;Getränke;176;Sorbet;113;129;16
+7;Getränke;177;Apfel-Bowle (Nektar);121;137;16
+7;Getränke;178;Eierpunsch;129;145;16
+7;Getränke;179;Weinpunsch;138;154;16
+7;Getränke;180;Chablis-Bowle;147;163;16
+7;Getränke;181;Eierwein (Chandeau);153;169;16
+7;Getränke;182;Römischer Punsch (Ponche à la Romaine);159;175;16
+7;Getränke;183;Kardinal;167;183;16
+7;Getränke;184;Erdbeer-Bowle;173;189;16
+7;Getränke;185;Sorbet;179;195;16
+7;Getränke;186;Schwedischer Punsch;189;205;16
+7;Getränke;187;Reseda-Bowle;197;213;16
+7;Getränke;188;Russischer Punsch;203;219;16
+7;Getränke;189;Sapajeau;210;226;16
+7;Getränke;190;Berliner Jagdpunsch;217;233;16
+8;Kaltschalen;191;Wein-Kaltschale;225;241;16
+8;Kaltschalen;192;Apfelwein-Kaltschale;225;241;16
+8;Kaltschalen;193;Bier-Kaltschale;225;241;16
+8;Kaltschalen;194;Wasser-Kaltschale;226;242;16
+8;Kaltschalen;195;Milch-Kaltschale;226;242;16
+8;Kaltschalen;196;Erdbeer-Kaltschale;226;242;16
+8;Kaltschalen;197;Himbeer-Kaltschale;227;243;16
+8;Kaltschalen;198;Johannisbeer-Kaltschale;227;243;16
+8;Kaltschalen;199;Pfirsich-Kaltschale;227;243;16
+8;Kaltschalen;200;Kaltschale aus in Büchsen eingemachten Aprikosen oder Pfirsichen.;228;244;16
+9;Konfitüren;201;Ausgekernte Johannisbeeren;231;247;16
+9;Konfitüren;202;Vierfrüchte;231;247;16
+9;Konfitüren;203;Rosenblätter einzumachen;232;248;16
+9;Konfitüren;204;Ganze Weintrauben einzumachen;233;249;16
+9;Konfitüren;205;Aprikosen in Büchsen einzumachen;233;249;16
+9;Konfitüren;206;Apfelsinen-Marmelade;234;250;16
+9;Konfitüren;207;Erdbeer-Saft;235;251;16
+9;Konfitüren;208;Himbeer-Saft;236;252;16
+9;Konfitüren;209;Johannisbeer-Sast;236;252;16
+9;Konfitüren;210;Vierfrüchte-Saft;236;252;16
+10;Verschiedenees;211;Blätterteig;241;257;16
+10;Verschiedenees;212;Mürber Teig;241;257;16
+10;Verschiedenees;213;Backteig;242;258;16
+10;Verschiedenees;214;Geruchzucker;242;258;16
+10;Verschiedenees;215;Glasur für Torten und Backwerk;242;258;16
+10;Verschiedenees;216;Ueberzuckerte Früchte (en Chemise);242;258;16

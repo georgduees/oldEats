@@ -1,0 +1,60 @@
+                       Inhalts=Verzeichniß.                XI
+Nro.                                                      Seite
+ 66.   Sauerampfersuppe                                     28
+                                                      *
+ 67.   Schaumsuppe mit Wein
+ 68.   Spargelsuppe                           *              9
+ 69.   Suppe für kleineKinder                                9
+ 70    Eine andere Art
+ 71.   Noch eine andere Art
+ 72    Suppe von Zwieback
+ 73    Eine Wassersupp
+ 74.   Geröstete Weckmehlsuppe.
+ 75.   Weck=Wassersuppe *
+ 76.   Weinbergsuppe
+ 77    Weinsuppe
+ 78.     „   1   auf andere Art
+79.          n auf noch andere Art                          32
+ 80    Weißkrautsuppe       *                              33
+ 81.   Wurzelsuppe
+ 82.   Zwetschensuppe
+ 83    Zwiebelsuppe.
+
+                Suppen=Klöschen.
+
+ 84.   Butter=Knöpflein in die Suppe                       34
+ 85    Fleisch=Klöschen                                    34
+ 86      1                auf andere Art                   35
+       Gries=Klöschen
+ 87.
+ 88.   Grüne Klöschen
+                                      *               *     35
+                                                            35
+ 89.   Kartoffel=Klöschen zur Suppe.          *
+ 90
+ 91.
+       Reis=Klöschen
+       Gute Suppen=Klöschen
+                                                  *         36
+
+                                 *                         36
+ 92.   Suppen=Schläppchen
+ 93    Ordinäre Suppen=Schwämmchen
+ 94.   Gebackene Weck=Klöschen
+
+ 95.   Recht gute Weck=Klöschen
+
+                     Rindfleisch.
+
+ 96.   Bocufstaeck (Beufstaeck)                             38
+97.    Böf a la Mode                                        39
+ 98.   Boeuf à la mode, oder Rindfleisch auf eine gute
+          Art zubereitet                                    39
+ 99    Eine andere Art, welche man kalt oder warm geben
+         kann
+                                              *             40
+100.   Gerolltes Ochsenfleisch             *                41
+101.40 Rindfleisch zu kochen                                12
+      0
+102. 2 Rindfleisch mit Sardellensauce                       42
+

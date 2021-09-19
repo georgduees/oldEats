@@ -1,0 +1,59 @@
+                      Inhalts=Verzeichniß.                XXIII
+
+Nro                                                       Seite
+555    Zitronen=Küchlein                                   257
+556    Zucker=Bretzelchen                                  258
+557.   Zucker=Gebackenes mit Rosinen     *
+                                                           258
+558.   Zucker=Stengel                                      258
+559.   Zwieback                                            259
+560.   Zwieback auf andere Art                             259
+
+
+             Glasuren zu Torten und Kuchen.
+
+561    Einen Guß auf Kuchen und Torten zu machen           259
+562    Chokolade=Glage auf eine Torte*                     260
+563    Weiße Glage                                         260
+
+                            Torten.
+
+564.   Aepfel=Torte                               *        261
+565    Aepfel=Torte auf andere Art                         261
+566    Aepfel=Torte mit Gitter                             261
+                                              *   4
+567.   Baum=Torte                                          26
+568    Feine Bisquit=Torte                                 263
+                                                      *
+569    Brod=Torte                                          264
+570.   Brod=Torte auf andere Art                           264
+571.   Eine gute Brod=Torte                                264
+572.   Schwarze Brod=Torte                                 265
+573.   Eier=Torte                                          265
+574    Gerührte Törtchen                                   266
+575.   Hefen=Torte                                         266
+576.   Kartoffel=Torte                                     267
+577.   Kartoffel=Mandeltorte             *                 267
+578.   Kirschen=Torte                                      267
+579    Kirschen=Torte mit Blätterteig                      268
+580    Kraft=Torte                                         268
+581    Mandel=Tort                                         269
+                                        Ar
+582.   Eine Mandel=Torte auf andere     Arl
+                                                           269
+583    Unvergleichliche Mandel=Torte                       270
+584    Marien=Tort                                *        270
+585.   Eine Obst=Torte   *                                 271
+586    Eine Obst=Torte auf andere Art                      271
+587.   Quitten=Torte                                       271
+                                                           O•
+588.   Reis=Torte                                          212
+
+589.   Sand=Torte                                          272
+590.   Sand=Torte auf eine andere Art                       —
+                                                           272
+591.   Sand=Törtchen                                       273
+592.   Spanischer Teig auf die gewöhnliche Art             273
+
+593.   Torten=Teig                                         274
+

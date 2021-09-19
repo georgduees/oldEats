@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "name": "Supp Gemüs' und Fleisch",
+      "toc": "/sguf/toc.json",
+      "image": "/sguf/cover.jpeg"
+    },
+    {
+      "name": "Kochbüchlein für die Puppen-Küche",
+      "toc": "/kfdpk/toc.json",
+      "image": "/kfdpk/cover.jpeg"
+    },
+    {
+      "name": "Der Kaffee- und Theetisch",
+      "toc": "/dkut/toc.json",
+      "image": "/dkut/cover.jpeg"
+    }
+  ]
+}
