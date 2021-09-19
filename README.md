@@ -84,7 +84,12 @@
 <!-- ABOUT THE PROJECT -->
 ## Über das Projekt
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+### Rezept Importer
+
+Mockup
+  <a href="https://github.com/georgduees/oldEats">
+    <img src="images/rezept_importer.png" alt="Rezept Importer Mockup" >
+  </a>
 
 
 ### Verwendete Software
