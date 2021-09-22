@@ -1,4 +1,4 @@
-﻿CategoryNo;Category;Number;Title;Page;Image;Offset
+CategoryNo;Category;Number;Title;Page;Image;Offset
 1;Vorbemerkungen;1;Vorbemerkungen;1;17;16
 1;Vorbemerkungen;2;Der Kaffee;3;19;16
 1;Vorbemerkungen;3;Die Kaffee-Bereitung;9;25;16
@@ -8,30 +8,30 @@
 1;Vorbemerkungen;7;Die Schokolade;29;45;16
 1;Vorbemerkungen;8;Der Kaffeetisch;34;50;16
 1;Vorbemerkungen;9;Der Theetisch;37;53;16
-2;Kuchen und Brezeln.;1;Rheinische Neujahrs-Brezel;43;59;16
-2;Kuchen und Brezeln.;2;Rollkuchen;51;67;16
-2;Kuchen und Brezeln.;3;Zimtkuchen;59;75;16
-2;Kuchen und Brezeln.;4;Rheinischer Kringel;67;83;16
-2;Kuchen und Brezeln.;5;Potkuchen;75;91;16
-2;Kuchen und Brezeln.;6;Braunschweiger Kuchen;83;99;16
-2;Kuchen und Brezeln.;7;Mürber Kaffeekuchen;91;107;16
-2;Kuchen und Brezeln.;8;Apostelkuchen (Brioche);97;113;16
-2;Kuchen und Brezeln.;9;Sächsischer Kuchen;105;121;16
-2;Kuchen und Brezeln.;10;Altdeutscher Napfkuchen;111;127;16
-2;Kuchen und Brezeln.;11;Schmalzkuchen;119;135;16
-2;Kuchen und Brezeln.;12;Dresdener Stolle;125;141;16
-2;Kuchen und Brezeln.;13;Portugieser Theekuchen;135;151;16
-2;Kuchen und Brezeln.;14;Sächsischer Butterzopf;143;159;16
-2;Kuchen und Brezeln.;15;Speckkuchen;151;167;16
-2;Kuchen und Brezeln.;16;Englischer Puffer;157;173;16
-2;Kuchen und Brezeln.;17;Schlesischer Streußelkuchen;165;181;16
-2;Kuchen und Brezeln.;18;Amerikanischer Kuchen (Sponge-Cake);171;187;16
-2;Kuchen und Brezeln.;19;Gußkuchen;177;193;16
-2;Kuchen und Brezeln.;20;Makronenkuchen;187;203;16
-2;Kuchen und Brezeln.;21;Wiener Kuchen;193;209;16
-2;Kuchen und Brezeln.;22;Weinkuchen;201;217;16
-2;Kuchen und Brezeln.;23;Schwäbischer Gugelhopf;207;223;16
-2;Kuchen und Brezeln.;24;Gelber Weihnachts-Kringel;215;231;16
+2;Kuchen und Brezeln;1;Rheinische Neujahrs-Brezel;43;59;16
+2;Kuchen und Brezeln;2;Rollkuchen;51;67;16
+2;Kuchen und Brezeln;3;Zimtkuchen;59;75;16
+2;Kuchen und Brezeln;4;Rheinischer Kringel;67;83;16
+2;Kuchen und Brezeln;5;Potkuchen;75;91;16
+2;Kuchen und Brezeln;6;Braunschweiger Kuchen;83;99;16
+2;Kuchen und Brezeln;7;Mürber Kaffeekuchen;91;107;16
+2;Kuchen und Brezeln;8;Apostelkuchen (Brioche);97;113;16
+2;Kuchen und Brezeln;9;Sächsischer Kuchen;105;121;16
+2;Kuchen und Brezeln;10;Altdeutscher Napfkuchen;111;127;16
+2;Kuchen und Brezeln;11;Schmalzkuchen;119;135;16
+2;Kuchen und Brezeln;12;Dresdener Stolle;125;141;16
+2;Kuchen und Brezeln;13;Portugieser Theekuchen;135;151;16
+2;Kuchen und Brezeln;14;Sächsischer Butterzopf;143;159;16
+2;Kuchen und Brezeln;15;Speckkuchen;151;167;16
+2;Kuchen und Brezeln;16;Englischer Puffer;157;173;16
+2;Kuchen und Brezeln;17;Schlesischer Streußelkuchen;165;181;16
+2;Kuchen und Brezeln;18;Amerikanischer Kuchen (Sponge-Cake);171;187;16
+2;Kuchen und Brezeln;19;Gußkuchen;177;193;16
+2;Kuchen und Brezeln;20;Makronenkuchen;187;203;16
+2;Kuchen und Brezeln;21;Wiener Kuchen;193;209;16
+2;Kuchen und Brezeln;22;Weinkuchen;201;217;16
+2;Kuchen und Brezeln;23;Schwäbischer Gugelhopf;207;223;16
+2;Kuchen und Brezeln;24;Gelber Weihnachts-Kringel;215;231;16
 3;Torten;25;Schwarzbrot-Torte;46;62;16
 3;Torten;26;Schlangen-Torte;54;70;16
 3;Torten;27;Kartoffel-Torte;63;79;16
@@ -110,7 +110,7 @@
 4;Backwerk;100;Rahm-Törtchen;181;197;16
 4;Backwerk;101;Mandel-Törtchen;181;197;16
 4;Backwerk;102;Rosen-Törtchen;182;198;16
-4;Backwerk;103;Englische Käse-Törtchen (Richmond maids of honour).;82;98;16
+4;Backwerk;103;Englische Käse-Törtchen (Richmond maids of honour);82;98;16
 4;Backwerk;104;Theebrötchen mit Honig;187;203;16
 4;Backwerk;105;Französische Törtchen (Madeleines de Commercy);187;203;16
 4;Backwerk;106;Milchbrötchen;194;210;16
@@ -118,7 +118,7 @@
 4;Backwerk;108;Mandelschnitten;196;212;16
 4;Backwerk;109;Türkische Küchlein;196;212;16
 4;Backwerk;110;Rahm-Küchlein;201;217;16
-4;Backwerk;111;Anisbrot.;202;218;16
+4;Backwerk;111;Anisbrot;202;218;16
 4;Backwerk;112;Punsch-Törtchen;208;224;16
 4;Backwerk;113;Ausgebackene Apfelküchlein;208;224;16
 4;Backwerk;114;Englische Weihnachts-Pastetchen;215;231;16
@@ -207,7 +207,7 @@
 8;Kaltschalen;197;Himbeer-Kaltschale;227;243;16
 8;Kaltschalen;198;Johannisbeer-Kaltschale;227;243;16
 8;Kaltschalen;199;Pfirsich-Kaltschale;227;243;16
-8;Kaltschalen;200;Kaltschale aus in Büchsen eingemachten Aprikosen oder Pfirsichen.;228;244;16
+8;Kaltschalen;200;Kaltschale aus in Büchsen eingemachten Aprikosen oder Pfirsichen;228;244;16
 9;Konfitüren;201;Ausgekernte Johannisbeeren;231;247;16
 9;Konfitüren;202;Vierfrüchte;231;247;16
 9;Konfitüren;203;Rosenblätter einzumachen;232;248;16
