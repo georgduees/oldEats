@@ -1,4 +1,4 @@
-﻿CategoryNo;Category;Number;Title;Page;Image;Offset
+CategoryNo;Category;Number;Title;Page;Image;Offset
 1;Vorbemerkungen;1;Holzersparnisse;1;37;36
 1;Vorbemerkungen;2;Ueber das Beheizen des Fleisches;1;37;36
 1;Vorbemerkungen;3;Von dem Beistellen der grünen Gemüse;2;38;36
@@ -87,7 +87,7 @@
 3;Suppen-Klöschen;86;Fleisch-Klöschen auf andere Art;34;70;36
 3;Suppen-Klöschen;87;Gries-Klöschen;35;71;36
 3;Suppen-Klöschen;88;Grüne Klöschen;35;71;36
-3;Suppen-Klöschen;89;Kartoffel-Klöschen zur Suppe.;35;71;36
+3;Suppen-Klöschen;89;Kartoffel-Klöschen zur Suppe;35;71;36
 3;Suppen-Klöschen;90;Reis-Klöschen;36;72;36
 3;Suppen-Klöschen;91;Gute Suppen-Klöschen;36;72;36
 3;Suppen-Klöschen;92;Suppen-Schläppchen;36;72;36
@@ -222,7 +222,7 @@
 8;Compote und Früchte-Gelée;221;Weiße Gelée;101;137;36
 8;Compote und Früchte-Gelée;222;Gekochte Heidelbeeren;101;137;36
 8;Compote und Früchte-Gelée;223;Himbeeren-Compot;102;138;36
-8;Compote und Früchte-Gelée;224;"Himbeersyrup; Himbeersaft; Himbeergelée";102;138;36
+8;Compote und Früchte-Gelée;224;Himbeersyrup, Himbeersaft, Himbeergelée;102;138;36
 8;Compote und Früchte-Gelée;225;Himbeeressig;103;139;36
 8;Compote und Früchte-Gelée;226;Himbeergelée;104;140;36
 8;Compote und Früchte-Gelée;227;Ein gutes Kirschen-Compot;104;140;36
@@ -242,7 +242,7 @@
 9;Pasteten;241;Pastete von Kalbszungen;114;150;36
 9;Pasteten;242;Pasteten-Teig von Hefen;114;150;36
 10;Braten;243;Gefüllter Schweins-Magen;115;151;36
-10;Braten;244;Gefüllte zahme Enten.;116;152;36
+10;Braten;244;Gefüllte zahme Enten;116;152;36
 10;Braten;245;Gebratene Feldhühner;116;152;36
 10;Braten;246;Gebratene und gefüllte Gans;117;153;36
 10;Braten;247;Eine gute andere Kartoffelfülle zur gebratenen Gans;118;154;36
@@ -417,7 +417,7 @@
 14;Salat;416;Polnischer Salat auf andere Art;203;239;36
 14;Salat;417;Ein guter Salat;204;240;36
 14;Salat;418;Sellerie-Salat;204;240;36
-15;Hefen- und Schmalz-Backerei;419;Ein feiner Butterteig zu einem Obstkuchen.;205;241;36
+15;Hefen- und Schmalz-Backerei;419;Ein feiner Butterteig zu einem Obstkuchen;205;241;36
 15;Hefen- und Schmalz-Backerei;420;Aepfel-Kuchen;205;241;36
 15;Hefen- und Schmalz-Backerei;421;Aepfel-Kuchen auf andere Art;206;242;36
 15;Hefen- und Schmalz-Backerei;422;Aepfel-Kuchen auf noch andere Art;206;242;36
@@ -594,7 +594,7 @@
 18;Torten;593;Torten-Teig;274;310;36
 18;Torten;594;Trauben-Torte;274;310;36
 18;Torten;595;Eine Weinkirschen-Torte;274;310;36
-18;Torten;596;Eine Weinkirschen-Torte auf andere Art.;275;311;36
+18;Torten;596;Eine Weinkirschen-Torte auf andere Art;275;311;36
 18;Torten;597;Wiener Torte;275;311;36
 18;Torten;598;Zwetschen-Torte;276;312;36
 18;Torten;599;Zwetschen-Torte auf andere Art;277;313;36
@@ -820,44 +820,3 @@
 27;Anhang;852;Esdragon-Essig zu machen;374;402;28
 27;Anhang;853;Essig von blauen Veilchen zu machen;374;402;28
 27;Anhang;854;Himbeeren-Essig zu machen;374;402;28
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
