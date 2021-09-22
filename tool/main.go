@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/csv"
+	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
@@ -13,32 +14,37 @@ const inputDir = "../source/data"
 const ooutputDir = "./out"
 
 type SubChapterItem struct {
-	ID      int
-	Title   string
-	Page    int
-	Begin   int
-	Image   string
-	Content string
-	Note    string
+	ID      int    `json:"id"`
+	Title   string `json:"title"`
+	Page    int    `json:"page"`
+	Begin   int    `json:"begin"`
+	Image   string `json:"image"`
+	Content string `json:"content"`
+	Note    string `json:"note"`
 }
 type ChapterItem struct {
-	ID         int
-	Title      string
-	Note       string
-	Page       int
-	Begin      int
-	Subchapter []SubChapterItem
+	ID         int              `json:"id"`
+	Title      string           `json:"title"`
+	Note       string           `json:"note"`
+	Page       int              `json:"page"`
+	Begin      int              `json:"begin"`
+	Offset     int              `json:"offset"`
+	Image      string           `json:"image"`
+	Subchapter []SubChapterItem `json:"subchapter"`
 }
 type Book struct {
-	ID          string
-	Author      string
-	Title       string
-	PublishDate int64
-	Country     string
-	City        string
-	Publisher   string
-	Offset      int
-	Chapter     []ChapterItem
+	ID          string        `json:"id"`
+	Author      string        `json:"author"`
+	Title       string        `json:"title"`
+	PublishDate int64         `json:"publishdate"`
+	Country     string        `json:"country"`
+	City        string        `json:"city"`
+	Publisher   string        `json:"publisher"`
+	Offset      int           `json:"offset"`
+	BasePath    string        `json:"basepath"`
+	TOCPath     string        `json:"tocpath"`
+	CoverImage  string        `json:"coverimage"`
+	Chapter     []ChapterItem `json:"chapter"`
 }
 
 type PDF struct {
@@ -104,7 +110,7 @@ func main() {
 		if err != nil {
 			fmt.Println(err)
 		}
-		fmt.Println("successfully opened file")
+		fmt.Println("successfully opened file" + v)
 		defer file.Close()
 		//Get All lines form CSV File
 		csvReader := csv.NewReader(file)
@@ -118,8 +124,30 @@ func main() {
 		var content []TOCLine
 		//CategoryNo;Category;Number;Title;Page;Image;Offset
 
-		records, _ := csvReader.ReadAll()
+		records, err := csvReader.ReadAll()
+		if err != nil {
+			panic(err)
+		}
+		//fill book with meaningful data
+		if strings.Contains(curBook.Title, "sguf") {
+			curBook.Title = "Supp Gemüs' und Fleisch"
+			curBook.TOCPath = "/sguf/toc.json"
+			curBook.CoverImage = "/sguf/cover.jpeg"
+		} else {
+			if strings.Contains(curBook.Title, "kfdpk") {
+				curBook.Title = "Kochbüchlein für die Puppen-Küche"
+				curBook.TOCPath = "/kfdpk/toc.json"
+				curBook.CoverImage = "/kfdpk/cover.jpeg"
+			} else {
 
+				if strings.Contains(curBook.Title, "dkut") {
+					curBook.Title = "Der Kaffee- und Theetisch"
+					curBook.TOCPath = "/dkut/toc.json"
+					curBook.CoverImage = "/dkut/cover.jpeg"
+
+				}
+			}
+		}
 		for _, line := range records {
 			c := TOCLine{
 				CategoryNo: stringToInt(line[0]),
@@ -145,14 +173,18 @@ func main() {
 		*/
 		for _, c := range contentUniq {
 			curChapter := ChapterItem{
-				ID:    c.CategoryNo,
-				Title: c.Category,
-				Page:  c.Page,
-				Begin: c.Page,
+				ID:     c.CategoryNo,
+				Title:  c.Category,
+				Page:   c.Page,
+				Begin:  c.Page,
+				Offset: c.Offset,
+				Image:  c.Image + ".jpeg",
 			}
 			curBook.Chapter = append(curBook.Chapter, curChapter)
 		}
-		for _, curChapter := range curBook.Chapter {
+
+		for i := range curBook.Chapter {
+			curChapter := &curBook.Chapter[i]
 			//Search Through BookContents and Extract SubChapters
 			for _, c := range bookContent {
 				if c.CategoryNo == curChapter.ID {
@@ -161,41 +193,24 @@ func main() {
 						Title:   c.Title,
 						Page:    c.Page,
 						Begin:   c.Page,
-						Image:   c.Image,
-						Content: c.Image + "*.txt",
+						Image:   c.Image + ".jpeg",
+						Content: c.Image + ".txt",
 						Note:    c.Title,
 					}
 					curChapter.Subchapter = append(curChapter.Subchapter, sc)
 				}
 			}
-		}
-
-		for _, v := range curBook.Chapter {
-			fmt.Println(v.Title)
-			for _, i := range v.Subchapter {
-				fmt.Println(i.Title)
-			}
 
 		}
 
-		//fill book with meaningful data
-		if strings.Contains(curBook.Title, "sguf") {
-			curBook.Title = "Supp Gemüs' und Fleisch"
-		} else {
-			if strings.Contains(curBook.Title, "kfdpk") {
-				curBook.Title = "Kochbüchlein für die Puppen-Küche"
-			} else {
-
-				if strings.Contains(curBook.Title, "dkut") {
-					curBook.Title = "Der Kaffee- und Theetisch"
-				}
-			}
-		}
 		//add book to booklist
 		bookList = append(bookList, curBook)
 	}
-	for _, book := range bookList {
-		fmt.Println(book.Title)
+	b, err := json.Marshal(bookList)
+	if err != nil {
+		fmt.Println(err)
+		return
 	}
+	fmt.Println(string(b))
 
 }

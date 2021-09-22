@@ -1,0 +1,2151 @@
+{
+    "id": "1",
+    "author": "Lovica von Pröpper",
+    "title": "Der Kaffee- und Theetisch",
+    "publishyear": 1882,
+    "country": "Deutschland",
+    "city": "Stuttgart",
+    "publisher": "Engelhorn",
+    "offset": 16,
+    "basepath": "",
+    "totalPage":242,
+    "tocpath": "toc.json",
+    "coverimage": "cover.jpeg",
+    "chapter": [
+      {
+        "id": 1,
+        "title": "Vorbemerkungen",
+        "note": "",
+        "page": 1,
+        "begin": 1,
+        "offset": 16,
+        "image": "17.jpeg",
+        "subchapter": [
+          {
+            "id": 1,
+            "title": "Vorbemerkungen",
+            "page": 1,
+            "begin": 1,
+            "image": "17.jpeg",
+            "content": "17.txt",
+            "note": "Vorbemerkungen"
+          },
+          {
+            "id": 2,
+            "title": "Der Kaffee",
+            "page": 3,
+            "begin": 3,
+            "image": "19.jpeg",
+            "content": "19.txt",
+            "note": "Der Kaffee"
+          },
+          {
+            "id": 3,
+            "title": "Die Kaffee-Bereitung",
+            "page": 9,
+            "begin": 9,
+            "image": "25.jpeg",
+            "content": "25.txt",
+            "note": "Die Kaffee-Bereitung"
+          },
+          {
+            "id": 4,
+            "title": "Die Kaffee-Sorten",
+            "page": 20,
+            "begin": 20,
+            "image": "36.jpeg",
+            "content": "36.txt",
+            "note": "Die Kaffee-Sorten"
+          },
+          {
+            "id": 5,
+            "title": "Die Kaffee-Surrogate",
+            "page": 21,
+            "begin": 21,
+            "image": "37.jpeg",
+            "content": "37.txt",
+            "note": "Die Kaffee-Surrogate"
+          },
+          {
+            "id": 6,
+            "title": "Der Thee",
+            "page": 24,
+            "begin": 24,
+            "image": "40.jpeg",
+            "content": "40.txt",
+            "note": "Der Thee"
+          },
+          {
+            "id": 7,
+            "title": "Die Schokolade",
+            "page": 29,
+            "begin": 29,
+            "image": "45.jpeg",
+            "content": "45.txt",
+            "note": "Die Schokolade"
+          },
+          {
+            "id": 8,
+            "title": "Der Kaffeetisch",
+            "page": 34,
+            "begin": 34,
+            "image": "50.jpeg",
+            "content": "50.txt",
+            "note": "Der Kaffeetisch"
+          },
+          {
+            "id": 9,
+            "title": "Der Theetisch",
+            "page": 37,
+            "begin": 37,
+            "image": "53.jpeg",
+            "content": "53.txt",
+            "note": "Der Theetisch"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Kuchen und Brezeln",
+        "note": "",
+        "page": 43,
+        "begin": 43,
+        "offset": 16,
+        "image": "59.jpeg",
+        "subchapter": [
+          {
+            "id": 1,
+            "title": "Rheinische Neujahrs-Brezel",
+            "page": 43,
+            "begin": 43,
+            "image": "59.jpeg",
+            "content": "59.txt",
+            "note": "Rheinische Neujahrs-Brezel"
+          },
+          {
+            "id": 2,
+            "title": "Rollkuchen",
+            "page": 51,
+            "begin": 51,
+            "image": "67.jpeg",
+            "content": "67.txt",
+            "note": "Rollkuchen"
+          },
+          {
+            "id": 3,
+            "title": "Zimtkuchen",
+            "page": 59,
+            "begin": 59,
+            "image": "75.jpeg",
+            "content": "75.txt",
+            "note": "Zimtkuchen"
+          },
+          {
+            "id": 4,
+            "title": "Rheinischer Kringel",
+            "page": 67,
+            "begin": 67,
+            "image": "83.jpeg",
+            "content": "83.txt",
+            "note": "Rheinischer Kringel"
+          },
+          {
+            "id": 5,
+            "title": "Potkuchen",
+            "page": 75,
+            "begin": 75,
+            "image": "91.jpeg",
+            "content": "91.txt",
+            "note": "Potkuchen"
+          },
+          {
+            "id": 6,
+            "title": "Braunschweiger Kuchen",
+            "page": 83,
+            "begin": 83,
+            "image": "99.jpeg",
+            "content": "99.txt",
+            "note": "Braunschweiger Kuchen"
+          },
+          {
+            "id": 7,
+            "title": "Mürber Kaffeekuchen",
+            "page": 91,
+            "begin": 91,
+            "image": "107.jpeg",
+            "content": "107.txt",
+            "note": "Mürber Kaffeekuchen"
+          },
+          {
+            "id": 8,
+            "title": "Apostelkuchen (Brioche)",
+            "page": 97,
+            "begin": 97,
+            "image": "113.jpeg",
+            "content": "113.txt",
+            "note": "Apostelkuchen (Brioche)"
+          },
+          {
+            "id": 9,
+            "title": "Sächsischer Kuchen",
+            "page": 105,
+            "begin": 105,
+            "image": "121.jpeg",
+            "content": "121.txt",
+            "note": "Sächsischer Kuchen"
+          },
+          {
+            "id": 10,
+            "title": "Altdeutscher Napfkuchen",
+            "page": 111,
+            "begin": 111,
+            "image": "127.jpeg",
+            "content": "127.txt",
+            "note": "Altdeutscher Napfkuchen"
+          },
+          {
+            "id": 11,
+            "title": "Schmalzkuchen",
+            "page": 119,
+            "begin": 119,
+            "image": "135.jpeg",
+            "content": "135.txt",
+            "note": "Schmalzkuchen"
+          },
+          {
+            "id": 12,
+            "title": "Dresdener Stolle",
+            "page": 125,
+            "begin": 125,
+            "image": "141.jpeg",
+            "content": "141.txt",
+            "note": "Dresdener Stolle"
+          },
+          {
+            "id": 13,
+            "title": "Portugieser Theekuchen",
+            "page": 135,
+            "begin": 135,
+            "image": "151.jpeg",
+            "content": "151.txt",
+            "note": "Portugieser Theekuchen"
+          },
+          {
+            "id": 14,
+            "title": "Sächsischer Butterzopf",
+            "page": 143,
+            "begin": 143,
+            "image": "159.jpeg",
+            "content": "159.txt",
+            "note": "Sächsischer Butterzopf"
+          },
+          {
+            "id": 15,
+            "title": "Speckkuchen",
+            "page": 151,
+            "begin": 151,
+            "image": "167.jpeg",
+            "content": "167.txt",
+            "note": "Speckkuchen"
+          },
+          {
+            "id": 16,
+            "title": "Englischer Puffer",
+            "page": 157,
+            "begin": 157,
+            "image": "173.jpeg",
+            "content": "173.txt",
+            "note": "Englischer Puffer"
+          },
+          {
+            "id": 17,
+            "title": "Schlesischer Streußelkuchen",
+            "page": 165,
+            "begin": 165,
+            "image": "181.jpeg",
+            "content": "181.txt",
+            "note": "Schlesischer Streußelkuchen"
+          },
+          {
+            "id": 18,
+            "title": "Amerikanischer Kuchen (Sponge-Cake)",
+            "page": 171,
+            "begin": 171,
+            "image": "187.jpeg",
+            "content": "187.txt",
+            "note": "Amerikanischer Kuchen (Sponge-Cake)"
+          },
+          {
+            "id": 19,
+            "title": "Gußkuchen",
+            "page": 177,
+            "begin": 177,
+            "image": "193.jpeg",
+            "content": "193.txt",
+            "note": "Gußkuchen"
+          },
+          {
+            "id": 20,
+            "title": "Makronenkuchen",
+            "page": 187,
+            "begin": 187,
+            "image": "203.jpeg",
+            "content": "203.txt",
+            "note": "Makronenkuchen"
+          },
+          {
+            "id": 21,
+            "title": "Wiener Kuchen",
+            "page": 193,
+            "begin": 193,
+            "image": "209.jpeg",
+            "content": "209.txt",
+            "note": "Wiener Kuchen"
+          },
+          {
+            "id": 22,
+            "title": "Weinkuchen",
+            "page": 201,
+            "begin": 201,
+            "image": "217.jpeg",
+            "content": "217.txt",
+            "note": "Weinkuchen"
+          },
+          {
+            "id": 23,
+            "title": "Schwäbischer Gugelhopf",
+            "page": 207,
+            "begin": 207,
+            "image": "223.jpeg",
+            "content": "223.txt",
+            "note": "Schwäbischer Gugelhopf"
+          },
+          {
+            "id": 24,
+            "title": "Gelber Weihnachts-Kringel",
+            "page": 215,
+            "begin": 215,
+            "image": "231.jpeg",
+            "content": "231.txt",
+            "note": "Gelber Weihnachts-Kringel"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Torten",
+        "note": "",
+        "page": 46,
+        "begin": 46,
+        "offset": 16,
+        "image": "62.jpeg",
+        "subchapter": [
+          {
+            "id": 25,
+            "title": "Schwarzbrot-Torte",
+            "page": 46,
+            "begin": 46,
+            "image": "62.jpeg",
+            "content": "62.txt",
+            "note": "Schwarzbrot-Torte"
+          },
+          {
+            "id": 26,
+            "title": "Schlangen-Torte",
+            "page": 54,
+            "begin": 54,
+            "image": "70.jpeg",
+            "content": "70.txt",
+            "note": "Schlangen-Torte"
+          },
+          {
+            "id": 27,
+            "title": "Kartoffel-Torte",
+            "page": 63,
+            "begin": 63,
+            "image": "79.jpeg",
+            "content": "79.txt",
+            "note": "Kartoffel-Torte"
+          },
+          {
+            "id": 28,
+            "title": "Italienische oder Marmor-Torte",
+            "page": 71,
+            "begin": 71,
+            "image": "87.jpeg",
+            "content": "87.txt",
+            "note": "Italienische oder Marmor-Torte"
+          },
+          {
+            "id": 29,
+            "title": "Pfund-Torte",
+            "page": 79,
+            "begin": 79,
+            "image": "95.jpeg",
+            "content": "95.txt",
+            "note": "Pfund-Torte"
+          },
+          {
+            "id": 30,
+            "title": "Kirschen-Torte",
+            "page": 86,
+            "begin": 86,
+            "image": "102.jpeg",
+            "content": "102.txt",
+            "note": "Kirschen-Torte"
+          },
+          {
+            "id": 31,
+            "title": "Wiener Torte",
+            "page": 94,
+            "begin": 94,
+            "image": "110.jpeg",
+            "content": "110.txt",
+            "note": "Wiener Torte"
+          },
+          {
+            "id": 32,
+            "title": "Johannisbeer-Torte",
+            "page": 101,
+            "begin": 101,
+            "image": "117.jpeg",
+            "content": "117.txt",
+            "note": "Johannisbeer-Torte"
+          },
+          {
+            "id": 33,
+            "title": "Demi-Torte",
+            "page": 108,
+            "begin": 108,
+            "image": "124.jpeg",
+            "content": "124.txt",
+            "note": "Demi-Torte"
+          },
+          {
+            "id": 34,
+            "title": "Biskuit-Torte",
+            "page": 114,
+            "begin": 114,
+            "image": "130.jpeg",
+            "content": "130.txt",
+            "note": "Biskuit-Torte"
+          },
+          {
+            "id": 35,
+            "title": "Nuß-Torte",
+            "page": 121,
+            "begin": 121,
+            "image": "137.jpeg",
+            "content": "137.txt",
+            "note": "Nuß-Torte"
+          },
+          {
+            "id": 36,
+            "title": "Englischer Weihnachtskuchen (Christmas-Cake",
+            "page": 129,
+            "begin": 129,
+            "image": "145.jpeg",
+            "content": "145.txt",
+            "note": "Englischer Weihnachtskuchen (Christmas-Cake"
+          },
+          {
+            "id": 37,
+            "title": "Pyramiden-Torte",
+            "page": 138,
+            "begin": 138,
+            "image": "154.jpeg",
+            "content": "154.txt",
+            "note": "Pyramiden-Torte"
+          },
+          {
+            "id": 38,
+            "title": "Apfelsinen-Torte",
+            "page": 147,
+            "begin": 147,
+            "image": "163.jpeg",
+            "content": "163.txt",
+            "note": "Apfelsinen-Torte"
+          },
+          {
+            "id": 39,
+            "title": "Sand-Torte",
+            "page": 153,
+            "begin": 153,
+            "image": "169.jpeg",
+            "content": "169.txt",
+            "note": "Sand-Torte"
+          },
+          {
+            "id": 40,
+            "title": "Rahmschnee-Torte",
+            "page": 160,
+            "begin": 160,
+            "image": "176.jpeg",
+            "content": "176.txt",
+            "note": "Rahmschnee-Torte"
+          },
+          {
+            "id": 41,
+            "title": "Zwieback-Torte",
+            "page": 167,
+            "begin": 167,
+            "image": "183.jpeg",
+            "content": "183.txt",
+            "note": "Zwieback-Torte"
+          },
+          {
+            "id": 42,
+            "title": "Französische Früchte-Torte (Gäteau Macédoine)",
+            "page": 174,
+            "begin": 174,
+            "image": "190.jpeg",
+            "content": "190.txt",
+            "note": "Französische Früchte-Torte (Gäteau Macédoine)"
+          },
+          {
+            "id": 43,
+            "title": "Blumen-Torte (Jardinière de Nice)",
+            "page": 180,
+            "begin": 180,
+            "image": "196.jpeg",
+            "content": "196.txt",
+            "note": "Blumen-Torte (Jardinière de Nice)"
+          },
+          {
+            "id": 44,
+            "title": "Aprikosen-Torte",
+            "page": 190,
+            "begin": 190,
+            "image": "206.jpeg",
+            "content": "206.txt",
+            "note": "Aprikosen-Torte"
+          },
+          {
+            "id": 45,
+            "title": "Kränzel-Torte",
+            "page": 197,
+            "begin": 197,
+            "image": "213.jpeg",
+            "content": "213.txt",
+            "note": "Kränzel-Torte"
+          },
+          {
+            "id": 46,
+            "title": "Dattel-Torte",
+            "page": 203,
+            "begin": 203,
+            "image": "219.jpeg",
+            "content": "219.txt",
+            "note": "Dattel-Torte"
+          },
+          {
+            "id": 47,
+            "title": "Blätterteig-Torte",
+            "page": 210,
+            "begin": 210,
+            "image": "226.jpeg",
+            "content": "226.txt",
+            "note": "Blätterteig-Torte"
+          },
+          {
+            "id": 48,
+            "title": "Torte mit Ananas",
+            "page": 218,
+            "begin": 218,
+            "image": "234.jpeg",
+            "content": "234.txt",
+            "note": "Torte mit Ananas"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backwerk",
+        "note": "",
+        "page": 43,
+        "begin": 43,
+        "offset": 16,
+        "image": "59.jpeg",
+        "subchapter": [
+          {
+            "id": 49,
+            "title": "Püffertchen",
+            "page": 43,
+            "begin": 43,
+            "image": "59.jpeg",
+            "content": "59.txt",
+            "note": "Püffertchen"
+          },
+          {
+            "id": 50,
+            "title": "Hefen-Biskuits",
+            "page": 44,
+            "begin": 44,
+            "image": "60.jpeg",
+            "content": "60.txt",
+            "note": "Hefen-Biskuits"
+          },
+          {
+            "id": 51,
+            "title": "Schwäbische Hörnlein",
+            "page": 51,
+            "begin": 51,
+            "image": "67.jpeg",
+            "content": "67.txt",
+            "note": "Schwäbische Hörnlein"
+          },
+          {
+            "id": 52,
+            "title": "Kölner Fastnacht-Mutzen",
+            "page": 52,
+            "begin": 52,
+            "image": "68.jpeg",
+            "content": "68.txt",
+            "note": "Kölner Fastnacht-Mutzen"
+          },
+          {
+            "id": 53,
+            "title": "Hefen-Waffeln",
+            "page": 59,
+            "begin": 59,
+            "image": "75.jpeg",
+            "content": "75.txt",
+            "note": "Hefen-Waffeln"
+          },
+          {
+            "id": 54,
+            "title": "Wiesbadener Kaffee-Küchlein",
+            "page": 60,
+            "begin": 60,
+            "image": "76.jpeg",
+            "content": "76.txt",
+            "note": "Wiesbadener Kaffee-Küchlein"
+          },
+          {
+            "id": 55,
+            "title": "Pandolen",
+            "page": 61,
+            "begin": 61,
+            "image": "77.jpeg",
+            "content": "77.txt",
+            "note": "Pandolen"
+          },
+          {
+            "id": 56,
+            "title": "Ausgebackene Pilze",
+            "page": 62,
+            "begin": 62,
+            "image": "78.jpeg",
+            "content": "78.txt",
+            "note": "Ausgebackene Pilze"
+          },
+          {
+            "id": 57,
+            "title": "Dreiback",
+            "page": 67,
+            "begin": 67,
+            "image": "83.jpeg",
+            "content": "83.txt",
+            "note": "Dreiback"
+          },
+          {
+            "id": 58,
+            "title": "Sächsische Rauten",
+            "page": 67,
+            "begin": 67,
+            "image": "83.jpeg",
+            "content": "83.txt",
+            "note": "Sächsische Rauten"
+          },
+          {
+            "id": 59,
+            "title": "Plinsen",
+            "page": 75,
+            "begin": 75,
+            "image": "91.jpeg",
+            "content": "91.txt",
+            "note": "Plinsen"
+          },
+          {
+            "id": 60,
+            "title": "Butterlaibchen",
+            "page": 76,
+            "begin": 76,
+            "image": "92.jpeg",
+            "content": "92.txt",
+            "note": "Butterlaibchen"
+          },
+          {
+            "id": 61,
+            "title": "Hefen-Brezeln",
+            "page": 83,
+            "begin": 83,
+            "image": "99.jpeg",
+            "content": "99.txt",
+            "note": "Hefen-Brezeln"
+          },
+          {
+            "id": 62,
+            "title": "Spritz-Küchlein",
+            "page": 84,
+            "begin": 84,
+            "image": "100.jpeg",
+            "content": "100.txt",
+            "note": "Spritz-Küchlein"
+          },
+          {
+            "id": 63,
+            "title": "Kapsel-Biskuit",
+            "page": 85,
+            "begin": 85,
+            "image": "101.jpeg",
+            "content": "101.txt",
+            "note": "Kapsel-Biskuit"
+          },
+          {
+            "id": 64,
+            "title": "Vanille-Hohlhippen",
+            "page": 86,
+            "begin": 86,
+            "image": "102.jpeg",
+            "content": "102.txt",
+            "note": "Vanille-Hohlhippen"
+          },
+          {
+            "id": 65,
+            "title": "Ausgebackene Rosen",
+            "page": 91,
+            "begin": 91,
+            "image": "107.jpeg",
+            "content": "107.txt",
+            "note": "Ausgebackene Rosen"
+          },
+          {
+            "id": 66,
+            "title": "Kolatschen",
+            "page": 92,
+            "begin": 92,
+            "image": "108.jpeg",
+            "content": "108.txt",
+            "note": "Kolatschen"
+          },
+          {
+            "id": 67,
+            "title": "Reiswaffeln",
+            "page": 98,
+            "begin": 98,
+            "image": "114.jpeg",
+            "content": "114.txt",
+            "note": "Reiswaffeln"
+          },
+          {
+            "id": 68,
+            "title": "Zucker-Zwieback",
+            "page": 99,
+            "begin": 99,
+            "image": "115.jpeg",
+            "content": "115.txt",
+            "note": "Zucker-Zwieback"
+          },
+          {
+            "id": 69,
+            "title": "Kaffee-Brötchen",
+            "page": 105,
+            "begin": 105,
+            "image": "121.jpeg",
+            "content": "121.txt",
+            "note": "Kaffee-Brötchen"
+          },
+          {
+            "id": 70,
+            "title": "Creme-Cannelons",
+            "page": 106,
+            "begin": 106,
+            "image": "122.jpeg",
+            "content": "122.txt",
+            "note": "Creme-Cannelons"
+          },
+          {
+            "id": 71,
+            "title": "Schnecken",
+            "page": 111,
+            "begin": 111,
+            "image": "127.jpeg",
+            "content": "127.txt",
+            "note": "Schnecken"
+          },
+          {
+            "id": 72,
+            "title": "Savarins",
+            "page": 112,
+            "begin": 112,
+            "image": "128.jpeg",
+            "content": "128.txt",
+            "note": "Savarins"
+          },
+          {
+            "id": 73,
+            "title": "Kastanien-Küchlein",
+            "page": 113,
+            "begin": 113,
+            "image": "129.jpeg",
+            "content": "129.txt",
+            "note": "Kastanien-Küchlein"
+          },
+          {
+            "id": 74,
+            "title": "Französische Brötchen (Brioches)",
+            "page": 119,
+            "begin": 119,
+            "image": "135.jpeg",
+            "content": "135.txt",
+            "note": "Französische Brötchen (Brioches)"
+          },
+          {
+            "id": 75,
+            "title": "Windbeutel",
+            "page": 120,
+            "begin": 120,
+            "image": "136.jpeg",
+            "content": "136.txt",
+            "note": "Windbeutel"
+          },
+          {
+            "id": 76,
+            "title": "Butter-Ringel",
+            "page": 126,
+            "begin": 126,
+            "image": "142.jpeg",
+            "content": "142.txt",
+            "note": "Butter-Ringel"
+          },
+          {
+            "id": 77,
+            "title": "Weihnachtsplätzchen",
+            "page": 126,
+            "begin": 126,
+            "image": "142.jpeg",
+            "content": "142.txt",
+            "note": "Weihnachtsplätzchen"
+          },
+          {
+            "id": 78,
+            "title": "Gefüllte Oblaten",
+            "page": 127,
+            "begin": 127,
+            "image": "143.jpeg",
+            "content": "143.txt",
+            "note": "Gefüllte Oblaten"
+          },
+          {
+            "id": 79,
+            "title": "Dütchen",
+            "page": 128,
+            "begin": 128,
+            "image": "144.jpeg",
+            "content": "144.txt",
+            "note": "Dütchen"
+          },
+          {
+            "id": 80,
+            "title": "Italienisches Früchte-Konfekt",
+            "page": 130,
+            "begin": 130,
+            "image": "146.jpeg",
+            "content": "146.txt",
+            "note": "Italienisches Früchte-Konfekt"
+          },
+          {
+            "id": 81,
+            "title": "Berliner Brötchen",
+            "page": 130,
+            "begin": 130,
+            "image": "146.jpeg",
+            "content": "146.txt",
+            "note": "Berliner Brötchen"
+          },
+          {
+            "id": 82,
+            "title": "Wiener Kipfel",
+            "page": 131,
+            "begin": 131,
+            "image": "147.jpeg",
+            "content": "147.txt",
+            "note": "Wiener Kipfel"
+          },
+          {
+            "id": 83,
+            "title": "Laubhütten-Küchlein",
+            "page": 131,
+            "begin": 131,
+            "image": "147.jpeg",
+            "content": "147.txt",
+            "note": "Laubhütten-Küchlein"
+          },
+          {
+            "id": 84,
+            "title": "Rahmwaffeln",
+            "page": 135,
+            "begin": 135,
+            "image": "151.jpeg",
+            "content": "151.txt",
+            "note": "Rahmwaffeln"
+          },
+          {
+            "id": 85,
+            "title": "Reichenauer Zwieback",
+            "page": 136,
+            "begin": 136,
+            "image": "152.jpeg",
+            "content": "152.txt",
+            "note": "Reichenauer Zwieback"
+          },
+          {
+            "id": 86,
+            "title": "Hobelspäne",
+            "page": 37,
+            "begin": 37,
+            "image": "53.jpeg",
+            "content": "53.txt",
+            "note": "Hobelspäne"
+          },
+          {
+            "id": 87,
+            "title": "Kölner Brezeln",
+            "page": 138,
+            "begin": 138,
+            "image": "154.jpeg",
+            "content": "154.txt",
+            "note": "Kölner Brezeln"
+          },
+          {
+            "id": 88,
+            "title": "Fastnacht-Küchlein",
+            "page": 144,
+            "begin": 144,
+            "image": "160.jpeg",
+            "content": "160.txt",
+            "note": "Fastnacht-Küchlein"
+          },
+          {
+            "id": 89,
+            "title": "Sandwichs",
+            "page": 145,
+            "begin": 145,
+            "image": "161.jpeg",
+            "content": "161.txt",
+            "note": "Sandwichs"
+          },
+          {
+            "id": 90,
+            "title": "Oblaten",
+            "page": 151,
+            "begin": 151,
+            "image": "167.jpeg",
+            "content": "167.txt",
+            "note": "Oblaten"
+          },
+          {
+            "id": 91,
+            "title": "Ingwer-Brezeln",
+            "page": 152,
+            "begin": 152,
+            "image": "168.jpeg",
+            "content": "168.txt",
+            "note": "Ingwer-Brezeln"
+          },
+          {
+            "id": 92,
+            "title": "Schneeballen",
+            "page": 157,
+            "begin": 157,
+            "image": "173.jpeg",
+            "content": "173.txt",
+            "note": "Schneeballen"
+          },
+          {
+            "id": 93,
+            "title": "Mandel-Küchlein",
+            "page": 158,
+            "begin": 158,
+            "image": "174.jpeg",
+            "content": "174.txt",
+            "note": "Mandel-Küchlein"
+          },
+          {
+            "id": 94,
+            "title": "Ulmer Brot",
+            "page": 165,
+            "begin": 165,
+            "image": "181.jpeg",
+            "content": "181.txt",
+            "note": "Ulmer Brot"
+          },
+          {
+            "id": 95,
+            "title": "Englische Schnitten",
+            "page": 166,
+            "begin": 166,
+            "image": "182.jpeg",
+            "content": "182.txt",
+            "note": "Englische Schnitten"
+          },
+          {
+            "id": 96,
+            "title": "Thee-Kringel",
+            "page": 171,
+            "begin": 171,
+            "image": "187.jpeg",
+            "content": "187.txt",
+            "note": "Thee-Kringel"
+          },
+          {
+            "id": 97,
+            "title": "Wiener Törtchen",
+            "page": 172,
+            "begin": 172,
+            "image": "188.jpeg",
+            "content": "188.txt",
+            "note": "Wiener Törtchen"
+          },
+          {
+            "id": 98,
+            "title": "Englische Brezeln",
+            "page": 177,
+            "begin": 177,
+            "image": "193.jpeg",
+            "content": "193.txt",
+            "note": "Englische Brezeln"
+          },
+          {
+            "id": 99,
+            "title": "Aprikosen-Brötchen",
+            "page": 178,
+            "begin": 178,
+            "image": "194.jpeg",
+            "content": "194.txt",
+            "note": "Aprikosen-Brötchen"
+          },
+          {
+            "id": 100,
+            "title": "Rahm-Törtchen",
+            "page": 181,
+            "begin": 181,
+            "image": "197.jpeg",
+            "content": "197.txt",
+            "note": "Rahm-Törtchen"
+          },
+          {
+            "id": 101,
+            "title": "Mandel-Törtchen",
+            "page": 181,
+            "begin": 181,
+            "image": "197.jpeg",
+            "content": "197.txt",
+            "note": "Mandel-Törtchen"
+          },
+          {
+            "id": 102,
+            "title": "Rosen-Törtchen",
+            "page": 182,
+            "begin": 182,
+            "image": "198.jpeg",
+            "content": "198.txt",
+            "note": "Rosen-Törtchen"
+          },
+          {
+            "id": 103,
+            "title": "Englische Käse-Törtchen (Richmond maids of honour)",
+            "page": 82,
+            "begin": 82,
+            "image": "98.jpeg",
+            "content": "98.txt",
+            "note": "Englische Käse-Törtchen (Richmond maids of honour)"
+          },
+          {
+            "id": 104,
+            "title": "Theebrötchen mit Honig",
+            "page": 187,
+            "begin": 187,
+            "image": "203.jpeg",
+            "content": "203.txt",
+            "note": "Theebrötchen mit Honig"
+          },
+          {
+            "id": 105,
+            "title": "Französische Törtchen (Madeleines de Commercy)",
+            "page": 187,
+            "begin": 187,
+            "image": "203.jpeg",
+            "content": "203.txt",
+            "note": "Französische Törtchen (Madeleines de Commercy)"
+          },
+          {
+            "id": 106,
+            "title": "Milchbrötchen",
+            "page": 194,
+            "begin": 194,
+            "image": "210.jpeg",
+            "content": "210.txt",
+            "note": "Milchbrötchen"
+          },
+          {
+            "id": 107,
+            "title": "Hohlhippen",
+            "page": 194,
+            "begin": 194,
+            "image": "210.jpeg",
+            "content": "210.txt",
+            "note": "Hohlhippen"
+          },
+          {
+            "id": 108,
+            "title": "Mandelschnitten",
+            "page": 196,
+            "begin": 196,
+            "image": "212.jpeg",
+            "content": "212.txt",
+            "note": "Mandelschnitten"
+          },
+          {
+            "id": 109,
+            "title": "Türkische Küchlein",
+            "page": 196,
+            "begin": 196,
+            "image": "212.jpeg",
+            "content": "212.txt",
+            "note": "Türkische Küchlein"
+          },
+          {
+            "id": 110,
+            "title": "Rahm-Küchlein",
+            "page": 201,
+            "begin": 201,
+            "image": "217.jpeg",
+            "content": "217.txt",
+            "note": "Rahm-Küchlein"
+          },
+          {
+            "id": 111,
+            "title": "Anisbrot",
+            "page": 202,
+            "begin": 202,
+            "image": "218.jpeg",
+            "content": "218.txt",
+            "note": "Anisbrot"
+          },
+          {
+            "id": 112,
+            "title": "Punsch-Törtchen",
+            "page": 208,
+            "begin": 208,
+            "image": "224.jpeg",
+            "content": "224.txt",
+            "note": "Punsch-Törtchen"
+          },
+          {
+            "id": 113,
+            "title": "Ausgebackene Apfelküchlein",
+            "page": 208,
+            "begin": 208,
+            "image": "224.jpeg",
+            "content": "224.txt",
+            "note": "Ausgebackene Apfelküchlein"
+          },
+          {
+            "id": 114,
+            "title": "Englische Weihnachts-Pastetchen",
+            "page": 215,
+            "begin": 215,
+            "image": "231.jpeg",
+            "content": "231.txt",
+            "note": "Englische Weihnachts-Pastetchen"
+          },
+          {
+            "id": 115,
+            "title": "Sandwaffeln",
+            "page": 216,
+            "begin": 216,
+            "image": "232.jpeg",
+            "content": "232.txt",
+            "note": "Sandwaffeln"
+          },
+          {
+            "id": 116,
+            "title": "Nürnberger Lebkuchen",
+            "page": 218,
+            "begin": 218,
+            "image": "234.jpeg",
+            "content": "234.txt",
+            "note": "Nürnberger Lebkuchen"
+          },
+          {
+            "id": 117,
+            "title": "Schokolade-Brötchen",
+            "page": 219,
+            "begin": 219,
+            "image": "235.jpeg",
+            "content": "235.txt",
+            "note": "Schokolade-Brötchen"
+          },
+          {
+            "id": 118,
+            "title": "Vanille-Küchlein",
+            "page": 220,
+            "begin": 220,
+            "image": "236.jpeg",
+            "content": "236.txt",
+            "note": "Vanille-Küchlein"
+          },
+          {
+            "id": 119,
+            "title": "Bauern-Küchlein",
+            "page": 220,
+            "begin": 220,
+            "image": "236.jpeg",
+            "content": "236.txt",
+            "note": "Bauern-Küchlein"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Pudding Süße Speisen",
+        "note": "",
+        "page": 44,
+        "begin": 44,
+        "offset": 16,
+        "image": "60.jpeg",
+        "subchapter": [
+          {
+            "id": 120,
+            "title": "Diplomaten-Pudding",
+            "page": 44,
+            "begin": 44,
+            "image": "60.jpeg",
+            "content": "60.txt",
+            "note": "Diplomaten-Pudding"
+          },
+          {
+            "id": 121,
+            "title": "Reis-Pudding",
+            "page": 45,
+            "begin": 45,
+            "image": "61.jpeg",
+            "content": "61.txt",
+            "note": "Reis-Pudding"
+          },
+          {
+            "id": 122,
+            "title": "Aprikosen-Pudding",
+            "page": 92,
+            "begin": 92,
+            "image": "108.jpeg",
+            "content": "108.txt",
+            "note": "Aprikosen-Pudding"
+          },
+          {
+            "id": 123,
+            "title": "Himbeer-Pudding",
+            "page": 93,
+            "begin": 93,
+            "image": "109.jpeg",
+            "content": "109.txt",
+            "note": "Himbeer-Pudding"
+          },
+          {
+            "id": 124,
+            "title": "Rahmschnee-Pudding mit Früchten (Tutti-Frutti)",
+            "page": 100,
+            "begin": 100,
+            "image": "116.jpeg",
+            "content": "116.txt",
+            "note": "Rahmschnee-Pudding mit Früchten (Tutti-Frutti)"
+          },
+          {
+            "id": 125,
+            "title": "Stärkmehl-Flummery",
+            "page": 152,
+            "begin": 152,
+            "image": "168.jpeg",
+            "content": "168.txt",
+            "note": "Stärkmehl-Flummery"
+          },
+          {
+            "id": 126,
+            "title": "Griesmehl-Flummery",
+            "page": 153,
+            "begin": 153,
+            "image": "169.jpeg",
+            "content": "169.txt",
+            "note": "Griesmehl-Flummery"
+          },
+          {
+            "id": 127,
+            "title": "Kaffee-Pudding",
+            "page": 158,
+            "begin": 158,
+            "image": "174.jpeg",
+            "content": "174.txt",
+            "note": "Kaffee-Pudding"
+          },
+          {
+            "id": 128,
+            "title": "Schokolade-Pudding",
+            "page": 159,
+            "begin": 159,
+            "image": "175.jpeg",
+            "content": "175.txt",
+            "note": "Schokolade-Pudding"
+          },
+          {
+            "id": 129,
+            "title": "Rotwein-Pudding",
+            "page": 179,
+            "begin": 179,
+            "image": "195.jpeg",
+            "content": "195.txt",
+            "note": "Rotwein-Pudding"
+          },
+          {
+            "id": 130,
+            "title": "Apfelsinen-Pudding",
+            "page": 216,
+            "begin": 216,
+            "image": "232.jpeg",
+            "content": "232.txt",
+            "note": "Apfelsinen-Pudding"
+          },
+          {
+            "id": 131,
+            "title": "Zitronen-Pudding",
+            "page": 217,
+            "begin": 217,
+            "image": "233.jpeg",
+            "content": "233.txt",
+            "note": "Zitronen-Pudding"
+          },
+          {
+            "id": 132,
+            "title": "Apfelsinen-Körbchen",
+            "page": 52,
+            "begin": 52,
+            "image": "68.jpeg",
+            "content": "68.txt",
+            "note": "Apfelsinen-Körbchen"
+          },
+          {
+            "id": 133,
+            "title": "Eier im Neste",
+            "page": 53,
+            "begin": 53,
+            "image": "69.jpeg",
+            "content": "69.txt",
+            "note": "Eier im Neste"
+          },
+          {
+            "id": 134,
+            "title": "Rahmschnee",
+            "page": 76,
+            "begin": 76,
+            "image": "92.jpeg",
+            "content": "92.txt",
+            "note": "Rahmschnee"
+          },
+          {
+            "id": 135,
+            "title": "Heidegrütze mit Rahmschnee",
+            "page": 78,
+            "begin": 78,
+            "image": "94.jpeg",
+            "content": "94.txt",
+            "note": "Heidegrütze mit Rahmschnee"
+          },
+          {
+            "id": 136,
+            "title": "Kastanien mit Rahmschnee (Surprise de Marrons",
+            "page": 112,
+            "begin": 112,
+            "image": "128.jpeg",
+            "content": "128.txt",
+            "note": "Kastanien mit Rahmschnee (Surprise de Marrons"
+          },
+          {
+            "id": 137,
+            "title": "Ostindischer Reis",
+            "page": 145,
+            "begin": 145,
+            "image": "161.jpeg",
+            "content": "161.txt",
+            "note": "Ostindischer Reis"
+          },
+          {
+            "id": 138,
+            "title": "Charlotte mit Makronen",
+            "page": 172,
+            "begin": 172,
+            "image": "188.jpeg",
+            "content": "188.txt",
+            "note": "Charlotte mit Makronen"
+          },
+          {
+            "id": 139,
+            "title": "Rote Grütze",
+            "page": 178,
+            "begin": 178,
+            "image": "194.jpeg",
+            "content": "194.txt",
+            "note": "Rote Grütze"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Cremes Gefrorenes Bulzen Kompotte",
+        "note": "",
+        "page": 60,
+        "begin": 60,
+        "offset": 16,
+        "image": "76.jpeg",
+        "subchapter": [
+          {
+            "id": 140,
+            "title": "Schokolade-Wein-Creme",
+            "page": 60,
+            "begin": 60,
+            "image": "76.jpeg",
+            "content": "76.txt",
+            "note": "Schokolade-Wein-Creme"
+          },
+          {
+            "id": 141,
+            "title": "Vanille-Creme",
+            "page": 61,
+            "begin": 61,
+            "image": "77.jpeg",
+            "content": "77.txt",
+            "note": "Vanille-Creme"
+          },
+          {
+            "id": 142,
+            "title": "Johannisbeer-Creme",
+            "page": 85,
+            "begin": 85,
+            "image": "101.jpeg",
+            "content": "101.txt",
+            "note": "Johannisbeer-Creme"
+          },
+          {
+            "id": 143,
+            "title": "Mille-Fruit-Cream",
+            "page": 107,
+            "begin": 107,
+            "image": "123.jpeg",
+            "content": "123.txt",
+            "note": "Mille-Fruit-Cream"
+          },
+          {
+            "id": 144,
+            "title": "Thee-Creme",
+            "page": 120,
+            "begin": 120,
+            "image": "136.jpeg",
+            "content": "136.txt",
+            "note": "Thee-Creme"
+          },
+          {
+            "id": 145,
+            "title": "Italienische Creme (Zambaglione di Napoli)",
+            "page": 120,
+            "begin": 120,
+            "image": "136.jpeg",
+            "content": "136.txt",
+            "note": "Italienische Creme (Zambaglione di Napoli)"
+          },
+          {
+            "id": 146,
+            "title": "Gefrorene Creme",
+            "page": 136,
+            "begin": 136,
+            "image": "152.jpeg",
+            "content": "152.txt",
+            "note": "Gefrorene Creme"
+          },
+          {
+            "id": 147,
+            "title": "Zitronen-Creme",
+            "page": 137,
+            "begin": 137,
+            "image": "153.jpeg",
+            "content": "153.txt",
+            "note": "Zitronen-Creme"
+          },
+          {
+            "id": 148,
+            "title": "Wein-Creme mit Makronen",
+            "page": 173,
+            "begin": 173,
+            "image": "189.jpeg",
+            "content": "189.txt",
+            "note": "Wein-Creme mit Makronen"
+          },
+          {
+            "id": 149,
+            "title": "Rahm-Creme",
+            "page": 188,
+            "begin": 188,
+            "image": "204.jpeg",
+            "content": "204.txt",
+            "note": "Rahm-Creme"
+          },
+          {
+            "id": 150,
+            "title": "Russische Creme",
+            "page": 189,
+            "begin": 189,
+            "image": "205.jpeg",
+            "content": "205.txt",
+            "note": "Russische Creme"
+          },
+          {
+            "id": 151,
+            "title": "Marmorierte Creme",
+            "page": 202,
+            "begin": 202,
+            "image": "218.jpeg",
+            "content": "218.txt",
+            "note": "Marmorierte Creme"
+          },
+          {
+            "id": 152,
+            "title": "Apfel-Creme",
+            "page": 202,
+            "begin": 202,
+            "image": "218.jpeg",
+            "content": "218.txt",
+            "note": "Apfel-Creme"
+          },
+          {
+            "id": 153,
+            "title": "Gefrorenes im Ofen (Glace au Four)",
+            "page": 99,
+            "begin": 99,
+            "image": "115.jpeg",
+            "content": "115.txt",
+            "note": "Gefrorenes im Ofen (Glace au Four)"
+          },
+          {
+            "id": 154,
+            "title": "Ananas-Gefrorenes mit Ungarwein",
+            "page": 126,
+            "begin": 126,
+            "image": "142.jpeg",
+            "content": "142.txt",
+            "note": "Ananas-Gefrorenes mit Ungarwein"
+          },
+          {
+            "id": 155,
+            "title": "Kirschengeist-Gefrorenes",
+            "page": 128,
+            "begin": 128,
+            "image": "144.jpeg",
+            "content": "144.txt",
+            "note": "Kirschengeist-Gefrorenes"
+          },
+          {
+            "id": 156,
+            "title": "Rheinwein-Sulz",
+            "page": 68,
+            "begin": 68,
+            "image": "84.jpeg",
+            "content": "84.txt",
+            "note": "Rheinwein-Sulz"
+          },
+          {
+            "id": 157,
+            "title": "Mandel-Sulz",
+            "page": 69,
+            "begin": 69,
+            "image": "85.jpeg",
+            "content": "85.txt",
+            "note": "Mandel-Sulz"
+          },
+          {
+            "id": 158,
+            "title": "Reis-Sulz",
+            "page": 146,
+            "begin": 146,
+            "image": "162.jpeg",
+            "content": "162.txt",
+            "note": "Reis-Sulz"
+          },
+          {
+            "id": 159,
+            "title": "Maiwein-Sulz",
+            "page": 166,
+            "begin": 166,
+            "image": "182.jpeg",
+            "content": "182.txt",
+            "note": "Maiwein-Sulz"
+          },
+          {
+            "id": 160,
+            "title": "Vierfrüchte-Sulz",
+            "page": 166,
+            "begin": 166,
+            "image": "182.jpeg",
+            "content": "182.txt",
+            "note": "Vierfrüchte-Sulz"
+          },
+          {
+            "id": 161,
+            "title": "Rheingold",
+            "page": 209,
+            "begin": 209,
+            "image": "225.jpeg",
+            "content": "225.txt",
+            "note": "Rheingold"
+          },
+          {
+            "id": 162,
+            "title": "Russische Sulz",
+            "page": 209,
+            "begin": 209,
+            "image": "225.jpeg",
+            "content": "225.txt",
+            "note": "Russische Sulz"
+          },
+          {
+            "id": 163,
+            "title": "Erdbeer-Kompott",
+            "page": 85,
+            "begin": 85,
+            "image": "101.jpeg",
+            "content": "101.txt",
+            "note": "Erdbeer-Kompott"
+          },
+          {
+            "id": 164,
+            "title": "Gemischter Kompott (Macédoine)",
+            "page": 106,
+            "begin": 106,
+            "image": "122.jpeg",
+            "content": "122.txt",
+            "note": "Gemischter Kompott (Macédoine)"
+          },
+          {
+            "id": 165,
+            "title": "Apfelsinen-Kompott",
+            "page": 195,
+            "begin": 195,
+            "image": "211.jpeg",
+            "content": "211.txt",
+            "note": "Apfelsinen-Kompott"
+          },
+          {
+            "id": 166,
+            "title": "Aepfel-Marmelade mit Guß (Pommes meringuées)",
+            "page": 196,
+            "begin": 196,
+            "image": "212.jpeg",
+            "content": "212.txt",
+            "note": "Aepfel-Marmelade mit Guß (Pommes meringuées)"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Getränke",
+        "note": "",
+        "page": 46,
+        "begin": 46,
+        "offset": 16,
+        "image": "62.jpeg",
+        "subchapter": [
+          {
+            "id": 167,
+            "title": "Glühwein",
+            "page": 46,
+            "begin": 46,
+            "image": "62.jpeg",
+            "content": "62.txt",
+            "note": "Glühwein"
+          },
+          {
+            "id": 168,
+            "title": "Ambrosia",
+            "page": 54,
+            "begin": 54,
+            "image": "70.jpeg",
+            "content": "70.txt",
+            "note": "Ambrosia"
+          },
+          {
+            "id": 169,
+            "title": "Brändelpunsch (Krambambuli)",
+            "page": 62,
+            "begin": 62,
+            "image": "78.jpeg",
+            "content": "78.txt",
+            "note": "Brändelpunsch (Krambambuli)"
+          },
+          {
+            "id": 170,
+            "title": "Bischof",
+            "page": 70,
+            "begin": 70,
+            "image": "86.jpeg",
+            "content": "86.txt",
+            "note": "Bischof"
+          },
+          {
+            "id": 171,
+            "title": "Mai-Bowle",
+            "page": 78,
+            "begin": 78,
+            "image": "94.jpeg",
+            "content": "94.txt",
+            "note": "Mai-Bowle"
+          },
+          {
+            "id": 172,
+            "title": "Kalter Eierwein (Whip)",
+            "page": 86,
+            "begin": 86,
+            "image": "102.jpeg",
+            "content": "102.txt",
+            "note": "Kalter Eierwein (Whip)"
+          },
+          {
+            "id": 173,
+            "title": "Spanischer Punsch (Esponjado)",
+            "page": 93,
+            "begin": 93,
+            "image": "109.jpeg",
+            "content": "109.txt",
+            "note": "Spanischer Punsch (Esponjado)"
+          },
+          {
+            "id": 174,
+            "title": "Pfirsich-Bowle",
+            "page": 100,
+            "begin": 100,
+            "image": "116.jpeg",
+            "content": "116.txt",
+            "note": "Pfirsich-Bowle"
+          },
+          {
+            "id": 175,
+            "title": "Ananas-Bowle",
+            "page": 107,
+            "begin": 107,
+            "image": "123.jpeg",
+            "content": "123.txt",
+            "note": "Ananas-Bowle"
+          },
+          {
+            "id": 176,
+            "title": "Sorbet",
+            "page": 113,
+            "begin": 113,
+            "image": "129.jpeg",
+            "content": "129.txt",
+            "note": "Sorbet"
+          },
+          {
+            "id": 177,
+            "title": "Apfel-Bowle (Nektar)",
+            "page": 121,
+            "begin": 121,
+            "image": "137.jpeg",
+            "content": "137.txt",
+            "note": "Apfel-Bowle (Nektar)"
+          },
+          {
+            "id": 178,
+            "title": "Eierpunsch",
+            "page": 129,
+            "begin": 129,
+            "image": "145.jpeg",
+            "content": "145.txt",
+            "note": "Eierpunsch"
+          },
+          {
+            "id": 179,
+            "title": "Weinpunsch",
+            "page": 138,
+            "begin": 138,
+            "image": "154.jpeg",
+            "content": "154.txt",
+            "note": "Weinpunsch"
+          },
+          {
+            "id": 180,
+            "title": "Chablis-Bowle",
+            "page": 147,
+            "begin": 147,
+            "image": "163.jpeg",
+            "content": "163.txt",
+            "note": "Chablis-Bowle"
+          },
+          {
+            "id": 181,
+            "title": "Eierwein (Chandeau)",
+            "page": 153,
+            "begin": 153,
+            "image": "169.jpeg",
+            "content": "169.txt",
+            "note": "Eierwein (Chandeau)"
+          },
+          {
+            "id": 182,
+            "title": "Römischer Punsch (Ponche à la Romaine)",
+            "page": 159,
+            "begin": 159,
+            "image": "175.jpeg",
+            "content": "175.txt",
+            "note": "Römischer Punsch (Ponche à la Romaine)"
+          },
+          {
+            "id": 183,
+            "title": "Kardinal",
+            "page": 167,
+            "begin": 167,
+            "image": "183.jpeg",
+            "content": "183.txt",
+            "note": "Kardinal"
+          },
+          {
+            "id": 184,
+            "title": "Erdbeer-Bowle",
+            "page": 173,
+            "begin": 173,
+            "image": "189.jpeg",
+            "content": "189.txt",
+            "note": "Erdbeer-Bowle"
+          },
+          {
+            "id": 185,
+            "title": "Sorbet",
+            "page": 179,
+            "begin": 179,
+            "image": "195.jpeg",
+            "content": "195.txt",
+            "note": "Sorbet"
+          },
+          {
+            "id": 186,
+            "title": "Schwedischer Punsch",
+            "page": 189,
+            "begin": 189,
+            "image": "205.jpeg",
+            "content": "205.txt",
+            "note": "Schwedischer Punsch"
+          },
+          {
+            "id": 187,
+            "title": "Reseda-Bowle",
+            "page": 197,
+            "begin": 197,
+            "image": "213.jpeg",
+            "content": "213.txt",
+            "note": "Reseda-Bowle"
+          },
+          {
+            "id": 188,
+            "title": "Russischer Punsch",
+            "page": 203,
+            "begin": 203,
+            "image": "219.jpeg",
+            "content": "219.txt",
+            "note": "Russischer Punsch"
+          },
+          {
+            "id": 189,
+            "title": "Sapajeau",
+            "page": 210,
+            "begin": 210,
+            "image": "226.jpeg",
+            "content": "226.txt",
+            "note": "Sapajeau"
+          },
+          {
+            "id": 190,
+            "title": "Berliner Jagdpunsch",
+            "page": 217,
+            "begin": 217,
+            "image": "233.jpeg",
+            "content": "233.txt",
+            "note": "Berliner Jagdpunsch"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Kaltschalen",
+        "note": "",
+        "page": 225,
+        "begin": 225,
+        "offset": 16,
+        "image": "241.jpeg",
+        "subchapter": [
+          {
+            "id": 191,
+            "title": "Wein-Kaltschale",
+            "page": 225,
+            "begin": 225,
+            "image": "241.jpeg",
+            "content": "241.txt",
+            "note": "Wein-Kaltschale"
+          },
+          {
+            "id": 192,
+            "title": "Apfelwein-Kaltschale",
+            "page": 225,
+            "begin": 225,
+            "image": "241.jpeg",
+            "content": "241.txt",
+            "note": "Apfelwein-Kaltschale"
+          },
+          {
+            "id": 193,
+            "title": "Bier-Kaltschale",
+            "page": 225,
+            "begin": 225,
+            "image": "241.jpeg",
+            "content": "241.txt",
+            "note": "Bier-Kaltschale"
+          },
+          {
+            "id": 194,
+            "title": "Wasser-Kaltschale",
+            "page": 226,
+            "begin": 226,
+            "image": "242.jpeg",
+            "content": "242.txt",
+            "note": "Wasser-Kaltschale"
+          },
+          {
+            "id": 195,
+            "title": "Milch-Kaltschale",
+            "page": 226,
+            "begin": 226,
+            "image": "242.jpeg",
+            "content": "242.txt",
+            "note": "Milch-Kaltschale"
+          },
+          {
+            "id": 196,
+            "title": "Erdbeer-Kaltschale",
+            "page": 226,
+            "begin": 226,
+            "image": "242.jpeg",
+            "content": "242.txt",
+            "note": "Erdbeer-Kaltschale"
+          },
+          {
+            "id": 197,
+            "title": "Himbeer-Kaltschale",
+            "page": 227,
+            "begin": 227,
+            "image": "243.jpeg",
+            "content": "243.txt",
+            "note": "Himbeer-Kaltschale"
+          },
+          {
+            "id": 198,
+            "title": "Johannisbeer-Kaltschale",
+            "page": 227,
+            "begin": 227,
+            "image": "243.jpeg",
+            "content": "243.txt",
+            "note": "Johannisbeer-Kaltschale"
+          },
+          {
+            "id": 199,
+            "title": "Pfirsich-Kaltschale",
+            "page": 227,
+            "begin": 227,
+            "image": "243.jpeg",
+            "content": "243.txt",
+            "note": "Pfirsich-Kaltschale"
+          },
+          {
+            "id": 200,
+            "title": "Kaltschale aus in Büchsen eingemachten Aprikosen oder Pfirsichen",
+            "page": 228,
+            "begin": 228,
+            "image": "244.jpeg",
+            "content": "244.txt",
+            "note": "Kaltschale aus in Büchsen eingemachten Aprikosen oder Pfirsichen"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Konfitüren",
+        "note": "",
+        "page": 231,
+        "begin": 231,
+        "offset": 16,
+        "image": "247.jpeg",
+        "subchapter": [
+          {
+            "id": 201,
+            "title": "Ausgekernte Johannisbeeren",
+            "page": 231,
+            "begin": 231,
+            "image": "247.jpeg",
+            "content": "247.txt",
+            "note": "Ausgekernte Johannisbeeren"
+          },
+          {
+            "id": 202,
+            "title": "Vierfrüchte",
+            "page": 231,
+            "begin": 231,
+            "image": "247.jpeg",
+            "content": "247.txt",
+            "note": "Vierfrüchte"
+          },
+          {
+            "id": 203,
+            "title": "Rosenblätter einzumachen",
+            "page": 232,
+            "begin": 232,
+            "image": "248.jpeg",
+            "content": "248.txt",
+            "note": "Rosenblätter einzumachen"
+          },
+          {
+            "id": 204,
+            "title": "Ganze Weintrauben einzumachen",
+            "page": 233,
+            "begin": 233,
+            "image": "249.jpeg",
+            "content": "249.txt",
+            "note": "Ganze Weintrauben einzumachen"
+          },
+          {
+            "id": 205,
+            "title": "Aprikosen in Büchsen einzumachen",
+            "page": 233,
+            "begin": 233,
+            "image": "249.jpeg",
+            "content": "249.txt",
+            "note": "Aprikosen in Büchsen einzumachen"
+          },
+          {
+            "id": 206,
+            "title": "Apfelsinen-Marmelade",
+            "page": 234,
+            "begin": 234,
+            "image": "250.jpeg",
+            "content": "250.txt",
+            "note": "Apfelsinen-Marmelade"
+          },
+          {
+            "id": 207,
+            "title": "Erdbeer-Saft",
+            "page": 235,
+            "begin": 235,
+            "image": "251.jpeg",
+            "content": "251.txt",
+            "note": "Erdbeer-Saft"
+          },
+          {
+            "id": 208,
+            "title": "Himbeer-Saft",
+            "page": 236,
+            "begin": 236,
+            "image": "252.jpeg",
+            "content": "252.txt",
+            "note": "Himbeer-Saft"
+          },
+          {
+            "id": 209,
+            "title": "Johannisbeer-Sast",
+            "page": 236,
+            "begin": 236,
+            "image": "252.jpeg",
+            "content": "252.txt",
+            "note": "Johannisbeer-Sast"
+          },
+          {
+            "id": 210,
+            "title": "Vierfrüchte-Saft",
+            "page": 236,
+            "begin": 236,
+            "image": "252.jpeg",
+            "content": "252.txt",
+            "note": "Vierfrüchte-Saft"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Verschiedenees",
+        "note": "",
+        "page": 241,
+        "begin": 241,
+        "offset": 16,
+        "image": "257.jpeg",
+        "subchapter": [
+          {
+            "id": 211,
+            "title": "Blätterteig",
+            "page": 241,
+            "begin": 241,
+            "image": "257.jpeg",
+            "content": "257.txt",
+            "note": "Blätterteig"
+          },
+          {
+            "id": 212,
+            "title": "Mürber Teig",
+            "page": 241,
+            "begin": 241,
+            "image": "257.jpeg",
+            "content": "257.txt",
+            "note": "Mürber Teig"
+          },
+          {
+            "id": 213,
+            "title": "Backteig",
+            "page": 242,
+            "begin": 242,
+            "image": "258.jpeg",
+            "content": "258.txt",
+            "note": "Backteig"
+          },
+          {
+            "id": 214,
+            "title": "Geruchzucker",
+            "page": 242,
+            "begin": 242,
+            "image": "258.jpeg",
+            "content": "258.txt",
+            "note": "Geruchzucker"
+          },
+          {
+            "id": 215,
+            "title": "Glasur für Torten und Backwerk",
+            "page": 242,
+            "begin": 242,
+            "image": "258.jpeg",
+            "content": "258.txt",
+            "note": "Glasur für Torten und Backwerk"
+          },
+          {
+            "id": 216,
+            "title": "Ueberzuckerte Früchte (en Chemise)",
+            "page": 242,
+            "begin": 242,
+            "image": "258.jpeg",
+            "content": "258.txt",
+            "note": "Ueberzuckerte Früchte (en Chemise)"
+          }
+        ]
+      }
+    ]
+  }
